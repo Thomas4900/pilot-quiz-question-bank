@@ -21323,6 +21323,525 @@
           ],
           "atplRubricCode" : 10,
           "textKey" : "When a person is found to be inadmissible and is returned to the aircraft operator for transport away from the territory of the state, the aircraft operator.."
+        },
+        {
+          "correctAnswer" : "In taxi clearances prior to take-off.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "In taxi clearances prior to take-off.",
+            "In route clearances at the stand.",
+            "Prior to engine start-up.",
+            "In take-off clearances."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "According to ICAO Doc 8168 PANS-OPS, the QNH altimeter setting shall be made available to departing aircraft."
+        },
+        {
+          "correctAnswer" : "Mode C continuously, Mode A upon request.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Mode C continuously, Mode A upon request.",
+            "Mode A continuously, Mode C upon request.",
+            "Mode S continuously, Mode A only in emergencies.",
+            "Mode A continuously, Mode C when passing through specific altitudes."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "An aircraft is flying in a control zone with a Secondary Surveillance Radar (SSR) available. ATC has NO SSR capabilities. Which mode should the aircraft squawk?"
+        },
+        {
+          "correctAnswer" : "An aircraft with a given ACN value may operate on a surface with a lower PCN value if certain operational limitations are met.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "The ACN of an aircraft is independent of the actual weight of the aircraft and tyre pressure and is always reported for maximum weight.",
+            "An aircraft with a given ACN value may operate on a surface with a lower PCN value if certain operational limitations are met.",
+            "The published PCN value must be equal to or lower than the aircraft's ACN value to allow for"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The principles of pavement classification numbers (PCNs) and aircraft classification numbers (ACNs) are described by ICAO Annex 14. These numbers describe the strength of a surface and the impact an aircraft will have on a surface. Select the correct option."
+        },
+        {
+          "correctAnswer" : "1,2 and 3.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "1,2 and 3.",
+            "1,2 and 4.",
+            "2,3 and 4.",
+            "1, 3 and 4."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "While planning a flight, the pilot observes the following route designator on the chart: UM120-RNP. According to ICAO Annex 11, the following elements of this route designator are considered integral parts: 1. \"U\" indicates that the route is an upper air route \"M\" indicates that the route is a regional area navigation route 3. \"120\" forms part of the basic designator used to identify the route 4. \"RNP\" indicates a prescribed navigation specification"
+        },
+        {
+          "correctAnswer" : "QNH",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "QNE",
+            "QNI",
+            "QNH",
+            "QFE"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "According to ICAO Doc 8168 PANS-OPS, prior to take- off, one altimeter shall be set on the latest (1) altimeter setting for the aerodrome. What is the abbreviation for the missing term?"
+        },
+        {
+          "correctAnswer" : "A valid flight crew licence, a valid medical certificate and a form of photo ID.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "A valid flight crew licence, a valid medical certificate and a form of photo ID.",
+            "A valid flight crew licence, updated time records, insurance records.",
+            "A valid flight crew licence, updated time records, a valid photo ID.",
+            "A valid flight crew licence, updated time records, passport, VISA."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "According to SERA, what documents shall a flight crew member carry when performing a flight?"
+        },
+        {
+          "correctAnswer" : "1 and 3 only.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "1 and 3 only.",
+            "2 and 4 only.",
+            "1, 3 and 4.",
+            "2, 3 and 4."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "According to ICAO Document 8168 (PANS-OPS), which of the following standard instrument departures (SID) are considered as straight departures? 1. SID RWY 26: Initial departure track is 4° to the left of the runway alignment 2. SID RWY 14: Initial departure track is 20° the right of the runway alignment 3. SID RWY 08: Initial departure track is 10° to the right of the runway alignment 4. SID RWY 05: Initial departure track is 16° to the left of the runway alignment"
+        },
+        {
+          "correctAnswer" : "between flights under IFR and between IFR and VFR flights, but does not provide separation between flights under VFR.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "at aerodromes for arriving traffic, but not for departing traffic.",
+            "between flights under IFR and between IFR and VFR flights, but does not provide separation between flights under VFR.",
+            "between all flights under IFR and VFR.",
+            "between flights under IFR, but does not provide separation between IFR and VFR flights, and flights under VFR."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "For an aerodrome in Controlled Airspace Class C, ATC provides separation..."
+        },
+        {
+          "correctAnswer" : "Climb according to RA, 1500 ft/min or slightly higher.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Visually maneuver and avoid the traffic.",
+            "Make a shallow descent.",
+            "Climb according to RA, 1500 ft/min or slightly higher.",
+            "Climb according to RA, but at the maximum vertical speed."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "During cruise, a climbing RA is triggered showing the instruction to climb at 1500 ft/min. The pilot realises that the other aircraft is climbing as well. How should the pilot respond?"
+        },
+        {
+          "correctAnswer" : "yellow",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "mauve",
+            "yellow",
+            "pink",
+            "green"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What is the standard colour code for an ATC document when considering the aeronautical information circular (AIC)?"
+        },
+        {
+          "correctAnswer" : "15 minutes at the time the level is crossed.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "15 minutes at the time the level is crossed.",
+            "5 minutes at the time the level is crossed.",
+            "10 minutes at the time the level is crossed.",
+            "20 minutes at the time the level is crossed."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The longitudinal separation between two aircraft on the same level flying on the same track should be..."
+        },
+        {
+          "correctAnswer" : "2600 m",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "3000 m",
+            "2800 m",
+            "2400 m",
+            "2600 m"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Based on the given data calculate the length of the Accelerate-Stop Distance Available (ASDA). TORA: 2400 m STOPWAY: 200 m CLEARWAY: 400 m"
+        },
+        {
+          "correctAnswer" : "Air traffic services.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Air traffic control only.",
+            "Air traffic services.",
+            "Flight licenses.",
+            "Air operations."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "An AIS is responsible for the provision of information and data concerning."
+        },
+        {
+          "correctAnswer" : "White when displayed on a runway and yellow when displayed on a taxiway which is permanently closed to the use of all aircraft.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "White when displayed on a runway and yellow when displayed on a taxiway which is closed to the use of aircraft with a MTOM of more than 5700 kg.",
+            "Yellow when displayed on a runway and white when displayed on a taxiway which is temporarily closed to aircraft with a MTOM of more than 5700 kg.",
+            "Red when displayed on a runway or a taxiway which is permanently closed to the use of all aircraft.",
+            "White when displayed on a runway and yellow when displayed on a taxiway which is permanently closed to the use of all aircraft."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What is the colour of a runway closed marking?"
+        },
+        {
+          "correctAnswer" : "AIRAC.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "IFPS.",
+            "NOTAM",
+            "EATCHIP.",
+            "AIRAC."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The system notifying in advance the circumstances requiring important changes in the methods of operation, based on common effective dates, is identified by the acronym..."
+        },
+        {
+          "correctAnswer" : "Must complete differences training containing both theoretical and practical training.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Must complete familiarisation training including theoretical knowledge training to acquire additional training.",
+            "Does NOT require any additional training as both aircraft are considered the same type.",
+            "Must complete differences training containing both theoretical and practical training.",
+            "Must complete a type rating on the new variant and afterwards a skill test."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "A pilot is working for an Operator that has only one aircraft type and variant in their fleet. The Operator is introducing a new aircraft that is considered a common type with the existing fleet, but a different variant to the existing aircraft. What shall the pilot do in order to be able operate on both variants? The pilot..."
+        },
+        {
+          "correctAnswer" : "aircraft.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "lighter-than-air aircraft.",
+            "power-driven aircraft.",
+            "aircraft.",
+            "ornithopters."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Consider the following: Helicopter, Glider, and Airship. - All of them can be classified as...."
+        },
+        {
+          "correctAnswer" : "No difference, ALS is measured from the threshold.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "No difference, ALS is measured from the threshold.",
+            "ALS is measured from the threshold in one runway and 150 meters before the displaced threshold in another.",
+            "ALS is measured from the displaced threshold in both runways.",
+            "ALS is measured from the end of the runway in both cases."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What is the difference between two runways in the point from which the approach lighting system (ALS) is measured, assuming that runway 03 has a displaced threshold of 150 m and runway 21 has not?"
+        },
+        {
+          "correctAnswer" : "LAPL, PPL, CPL, ATPL, PIC on commercial flights.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "LAPL, PPL, CPL, ATPL, MPL, PIC on single engine commercial flights.",
+            "LAPL, PPL, CPL, ATPL, PIC on commercial flights.",
+            "LAPL, CPL, ATPL, PIC on single engine commercial flights.",
+            "LAPL, CPL, ATPL, PIC on multi-engine commercial flights only."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What are the privilages of a pilot holding an ATPL(A) license?"
+        },
+        {
+          "correctAnswer" : "A means by which the introduction of weapons, explosives or other dangerous devices, articles or substances which may be used to commit an act of unlawful interference can be prevented.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "The application of technical or other means which are intended to identify and/or detect weapons, explosives or other dangerous devices, articles or substances which may be used to commit an act of unlawful interference.",
+            "A means by which the introduction of weapons, explosives or other dangerous devices, articles or substances which may be used to commit an act of unlawful interference can be prevented.",
+            "A check on a person's identity and previous experience including where legally permissible, any criminal history.",
+            "A secret or public trial of an aviation security measure which simulates an attempt to commit an unlawful act."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "According to ICAO Annex 17, what is the definition of \"Security Control\"? The application of technical or other means"
+        },
+        {
+          "correctAnswer" : "Base turn",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Reversal orbit",
+            "Race track",
+            "Base turn",
+            "Procedure turn"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What is the turn made by an aircraft during the initial approach to the runway between the end of the outbound track and the beginning of the intermediate or final approach track, where the tracks are not reciprocal?"
+        },
+        {
+          "correctAnswer" : "an airport where every aircraft which enters the territory of a given state shall land for the purpose of customs and other examination.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "an airport where the customs services are provided by civil officers.",
+            "any regional airport.",
+            "airfields fitted with the appropriate low visibility operations equipment.",
+            "an airport where every aircraft which enters the territory of a given state shall land for the purpose of customs and other examination."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "A customs aiport is..."
+        },
+        {
+          "correctAnswer" : "The operator as soon as possible.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "The operator as soon as possible.",
+            "The PIC (Pilot-in-Command) as soon as possible.",
+            "The operator immediately.",
+            "The PIC immediately."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "A State finds that an inadmissible person has landed to its territory. Who should be notified in written form?"
+        },
+        {
+          "correctAnswer" : "To reduce aircraft to the MLM and carry it out above 6000 ft.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "To reduce aircraft weight for landing.",
+            "To avoid fuel contamination.",
+            "To reduce aircraft to the MLM and carry it out above 6000 ft.",
+            "To increase fuel efficiency."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "In case of a distress situation, what might be the reason that a pilot decides to dump fuel?"
+        },
+        {
+          "correctAnswer" : "Steady red: Stop; Flashing green: Cleared to taxi.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Steady red: Stop; Flashing green: Cleared to taxi.",
+            "Steady red: Taxi clear of runway; Flashing green: Cleared to taxi.",
+            "Steady red: Stop; Flashing green: Return to apron.",
+            "Steady red: Taxi clear of runway; Flashing green: Cleared for take-off."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "An aircraft with radio communications failure is taxiing. The pilot notices a steady red light. After a while this light is followed by a flashing green light. What is the meaning of these signals?"
+        },
+        {
+          "correctAnswer" : "The Competent Authority which is the Licensing Authority.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "to any Competent Authority.",
+            "The Competent Authority in the country where the pilot resides or to EASA.",
+            "The Competent Authority which is the Licensing Authority.",
+            "The Competent Authority but only in a State which adopted ICAO regulations and procedures."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The pilot is a holder of a valid license by the provisions on flight crew licensing in the EU Regulation on Air Operations. Where should the pilot send his application to add a new rating to his license?"
+        },
+        {
+          "correctAnswer" : "a), c) and d).",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "a) only.",
+            "a) and c).",
+            "a), c) and d).",
+            "a), b), c) and d)."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Which of the following is/are mandatory tasks that the pilot must do before an IFR flight? a) Check weather and charts b) Establish best cost index (fuel) c) Check the correct amount of fuel d) Check the airspaces that will be crossed"
+        },
+        {
+          "correctAnswer" : "Aeronautical Fixed Service.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Aeronautical Fixed Service.",
+            "Aircraft Fixed Station.",
+            "Aeronautical Fixed System.",
+            "Aeronautical Forecast Service."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The abbreviation \"AFS\" stands for..."
+        },
+        {
+          "correctAnswer" : "An apron.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "An aerodrome.",
+            "A taxiway.",
+            "An apron.",
+            "A runway."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "An Apron Management Service is defined as a service provided to regulate the activities and the movement of aircraft and vehicles on..."
+        },
+        {
+          "correctAnswer" : "Land as soon as practicable.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Set mode A code 7600.",
+            "Attempt to fight the hijacker.",
+            "Begin circling at the lowest altitude possible.",
+            "Land as soon as practicable."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "According to ICAO Annex 2, what should the pilot in command do under a state of unlawful interference?"
+        },
+        {
+          "correctAnswer" : "20 minutes",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "25 minutes",
+            "30 minutes",
+            "15 minutes",
+            "20 minutes"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "You are on an IFR flight in airspace where radar is NOT used in the provision of air traffic control. You are experiencing a complete radio failure and were unable to report your position at the last compulsory reporting point. You shall maintain the last assigned speed and level, or minimum flight altitude if higher, for a period of how long after failing to report your position over the compulsory reporting point?"
+        },
+        {
+          "correctAnswer" : "24 hours.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "12 hours.",
+            "24 hours.",
+            "36 hours.",
+            "48 hours."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "A passenger is found inadmissible. How long shall the removing state allow the operating carrier to effect that passenger's removal via its own services?"
+        },
+        {
+          "correctAnswer" : "Half a scale deflection after being established on the track.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "One and a half scales deflection after being established on the track.",
+            "A quarter of a scale deflection after being established on the track.",
+            "Half a scale deflection after being established on the track.",
+            "One full scale deflection after being established on the track."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "ILS obstacle clearance surfaces are established under the assumption that the pilot does not allow the aircraft to deviate from the centreline by more than..."
+        },
+        {
+          "correctAnswer" : "an ILS/MLS critical or sensitive area.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "a speed restriction area.",
+            "the proximity of a runway.",
+            "a rapid exit taxiway.",
+            "an ILS/MLS critical or sensitive area."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Alternate taxiway centre line lights that show green and yellow define..."
+        },
+        {
+          "correctAnswer" : "(i) spherical, (i) 60",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "(i) spherical, (ii) 30",
+            "(i) rectangular, (ii) 15",
+            "(i) squared, (ii) 45",
+            "(i) spherical, (i) 60"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The markers used for high tension overhead cables or wires have a (i) shape and a minimum width of (ii) cm."
+        },
+        {
+          "correctAnswer" : "2 minutes.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "5 minutes.",
+            "3 minutes.",
+            "2 minutes.",
+            "1 minute."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The minimum wake turbulence separation to be applied between a light or medium aircraft taking-off behind a heavy aircraft, from the same position on the same runway, is..."
+        },
+        {
+          "correctAnswer" : "(1) medium, heavy; (2) centre line",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "(1) medium, heavy; (2) threshold",
+            "(1) medium, heavy; (2) centre line",
+            "(1) heavy; (2) threshold",
+            "(1) heavy; (2) centre line"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Holding bays are necessary when the traffic is (1) and they need to be at a specified distance from the runway 2)"
+        },
+        {
+          "correctAnswer" : "flashing-blue or flashing-yellow.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "fixed red or preferably orange.",
+            "flashing blue.",
+            "fixed red or preferably blue.",
+            "flashing-blue or flashing-yellow."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What should be the type of low-intensity obstacle lights found on mobile objects?"
+        },
+        {
+          "correctAnswer" : "20 minutes.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "7 minutes.",
+            "15 minutes.",
+            "5 minutes.",
+            "20 minutes."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "In the event of a communication failure during an IFR flight in IMC within radar-controlled airspace, the pilot is required to maintain the last assigned speed and level for..."
+        },
+        {
+          "correctAnswer" : "A red marker board on either side of the taxiway.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Flashing blue lights.",
+            "A yellow/black marker board on the left side of the taxiway.",
+            "A red marker board on either side of the taxiway.",
+            "One or three different line arrangements painted across the taxiway."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What are used to indicate a runway-holding position?"
         }
       ],
       "title" : "category.atplBank"
