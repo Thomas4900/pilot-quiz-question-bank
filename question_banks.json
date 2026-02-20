@@ -1921,7 +1921,7 @@
           "options" : [
             "Bombardier Challenger 300",
             "Cessna Citation Latitude",
-            "Embraer Praetor 50000000000000"
+            "Embraer Praetor 500"
           ],
           "textKey" : "quiz.guess.privateJet"
         },
@@ -13108,7 +13108,7 @@
           "options" : [
             "Turn off the heat",
             "Shut down the engine",
-            "Use the fire extinguisher",
+            "Use the fire extingui sher",
             "Turn off the master switch"
           ],
           "pplRubricCode" : 60,
