@@ -17626,7 +17626,7 @@
             "ICETAM",
             "SNOWTAM"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Information concerning snow, ice and standing water associated with snow on aerodrome pavement areas is to be reported by..."
         },
         {
@@ -17639,7 +17639,7 @@
             "altitudes; controlled",
             "altitudes; uncontrolled"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "During radar vectoring, ATC provides to the aircraft ___ to fly and ensures that the aircraft is not entering ___ airspace, except during emergencies."
         },
         {
@@ -17652,7 +17652,7 @@
             "(1) 20 deg, (2) 3 degrees per second, (3) lesser",
             "(1) 20 deg, (2) 5 degrees per second, (3) greater"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "While flying a holding pattern, the turns shall be made at a bank angle of (1) or at a rate of turn of (2), whichever requires (3) bank."
         },
         {
@@ -17665,7 +17665,7 @@
             "Follow the intercepting aircraft and squawk 7700.",
             "Contact ATC and squawk 7600."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A civil aircraft has been intercepted. According to SERA, the correct actions to be carried out by the Pilot-in-Command of the civil aircraft are..."
         },
         {
@@ -17678,7 +17678,7 @@
             "Multidirectional",
             "Instrument departure"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to ICAO Doc 8168, in cases where no track guidance is provided, a convenient and flexible method of ensuring obstacle clearance is to use the ___ method."
         },
         {
@@ -17691,7 +17691,7 @@
             "be hand-delivered to the competent authority and comply with the international civil aviation transport airline security programme of IATA.",
             "comply with the European aviation security programme of EASA."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A German airline has to establish an operator security programme in writing and implement and maintain it. The programme must..."
         },
         {
@@ -17704,7 +17704,7 @@
             "more than 15 kt",
             "at least 5 kt"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "If the average True Airspeed (TAS) at cruising level between reporting points varies by ___ from that given in the flight plan, the appropriate Air Traffic Services unit shall be informed."
         },
         {
@@ -17717,7 +17717,7 @@
             "Land at the nearest suitable aerodrome and submit an IFR flight plan.",
             "Cancel the VFR flight and submit a new flight plan."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A pilot intends to change from VFR to IFR in the middle of a flight. A flight plan has already been submitted. What action is the pilot required to take?"
         },
         {
@@ -17729,7 +17729,7 @@
             "The passenger may be permitted to occupy the jump seat in the cockpit, subject to OM provisions, with the final decision resting with the captain.",
             "The captain may decide whether the additional passenger can join the flight, taking into consideration seating options within the aircraft."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The aircraft passenger seats are all occupied, and there is a request from an extra passenger to join the flight. What are the potential courses of action in this situation?"
         },
         {
@@ -17742,7 +17742,7 @@
             "From the age of 3.",
             "It is regardless of age."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In accordance with ICAO Annex 9, from which age shall Contracting States issue a separate passport to each person?"
         },
         {
@@ -17754,7 +17754,7 @@
             "can still decide to land on the closed runway for safety reasons.",
             "cannot land on a closed runway under any circumstances."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A general aviation aircraft is on fire. The pilot declares a MAYDAY and sees a runway in front. ATC informs the pilot that the runway is closed for administrative reasons. According to SERA, the pilot..."
         },
         {
@@ -17767,7 +17767,7 @@
             "(1) evening civil twilight; (2) morning civil sunrise.",
             "(1) morning civil twilight; (2) evening civil twilight."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Night is the period between the end of (1) and the beginning of (2), or such other period between sunset and sunrise."
         },
         {
@@ -17779,7 +17779,7 @@
             "When the aircraft is operating in airspace class G.",
             "After approach clearance has been issued and the descent to land is begun, provided that level flight above the transition altitude is not anticipated."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When may the vertical position of an aircraft above the transition level be referenced to altitudes?"
         },
         {
@@ -17791,7 +17791,7 @@
             "2 and 5 only.",
             "1, 2 and 4."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An Aeronautical Information Circular (AIC) shall comply with the following general specifications. Which set is correct?"
         },
         {
@@ -17803,7 +17803,7 @@
             "3 NM",
             "4 NM"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "How far from the runway end does the Surveillance Radar Approach (SRA) controller stop providing guidance?"
         },
         {
@@ -17816,7 +17816,7 @@
             "Vertical separation is obtained by requiring aircraft using prescribed altimeter setting procedures to operate at different levels expressed in altitudes only.",
             "Vertical separation is obtained by requiring aircraft using prescribed altimeter setting procedures to operate at different levels expressed in terms of flight levels or altitudes."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the method of ensuring vertical separation?"
         },
         {
@@ -17829,7 +17829,7 @@
             "English and national language.",
             "English only."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In which language shall NOTAMs be published?"
         },
         {
@@ -17841,7 +17841,7 @@
             "the terrain surrounding the aerodrome.",
             "the expected experience level of the operating flight deck crew."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In general, the main factor that determines the design of an instrument departure procedure is..."
         },
         {
@@ -17853,7 +17853,7 @@
             "only when directed by ATC.",
             "unless otherwise directed by ATC."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When an aircraft carries a serviceable Mode C transponder, the pilot shall continuously operate this mode..."
         },
         {
@@ -17866,7 +17866,7 @@
             "Contact approach (circling).",
             "Non-precision approach (circling)."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft executes the last portion of an approach visually since it does not line up with the landing runway. How is that type of approach defined?"
         },
         {
@@ -17879,7 +17879,7 @@
             "65 years",
             "62 years"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "At what age shall the holder of a pilot licence NOT act as a pilot of an aeroplane or helicopter engaged in commercial air transport?"
         },
         {
@@ -17892,7 +17892,7 @@
             "Range",
             "Lift-to-drag ratio"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Aircraft performance has a direct effect on the conduct of instrument approaches. What is the most significant aircraft-performance factor?"
         },
         {
@@ -17905,7 +17905,7 @@
             "scale from 1 to 10.",
             "four letter code."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The ASHTAM provides information about the status of activity of a volcano by publishing a..."
         },
         {
@@ -17918,7 +17918,7 @@
             "Return for landing.",
             "Land at this aerodrome and proceed to apron."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "After departure, the pilot is unable to contact ATC due to communication failure in the downwind leg. While attempting to establish communication, the pilot notices a flashing green light from ATC. What is the meaning of that signal?"
         },
         {
@@ -17930,7 +17930,7 @@
             "When over, or as soon as possible after passing, each designated compulsory reporting point.",
             "Before passing each compulsory reporting point."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "On routes defined by designated significant points, when shall position reports be made by the aircraft?"
         },
         {
@@ -17942,7 +17942,7 @@
             "be separated by at least 500 ft, depending on traffic levels.",
             "be correct for an approach sequence at the destination."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is flying towards a major aerodrome and is part of a traffic flow of aircraft operating on the same ATS route, towards the same aerodrome. The pilots expect ATC to assign them, and other aircraft that are part of this traffic flow, cruising levels which will, as far as practicable..."
         },
         {
@@ -17954,7 +17954,7 @@
             "1, 3, 5, and 6",
             "1, 2, 4, and 6"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft establishes communication with the approach control service in order to approach and land to an aerodrome. What should the ATC report to the pilot as early as possible?"
         },
         {
@@ -17967,7 +17967,7 @@
             "Start a turn with max bank angle and push back the sidestick to make the turn even tighter.",
             "Monitor your ND throughout the TA, and follow the TCAS RA if triggered."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "ATC gives you traffic information, 4 NM ahead of your position in opposite direction. What should you do?"
         },
         {
@@ -17980,7 +17980,7 @@
             "(1) controlled flights; (2) subject to unlawful interference",
             "(1) controlled flights; (2) with sick or unwell passengers onboard"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An alerting service shall be provided for (1) ___ and (2) ___. Complete the sentence with correct statements."
         },
         {
@@ -17993,7 +17993,7 @@
             "descending below the approach minima.",
             "losing contact to ATC."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "You are flying in a holding pattern where you have to consider several criteria and maintain specific parameters like speed, altitude, time, distance and rate of turn. If you are descending below such altitude, there is a risk of..."
         },
         {
@@ -18005,7 +18005,7 @@
             "Baggage at an airport, with or without a baggage tag, which is not picked up by or identified with a passenger.",
             "Baggage, carried in the hold of an aircraft, which has been checked in for a flight by a passenger travelling on that same flight."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to ICAO Annex 17, what is an \"Unidentified Baggage\"?"
         },
         {
@@ -18018,7 +18018,7 @@
             "Adding extra fuel will not have a great impact on performance and, therefore, the pilot is free to continue the operation.",
             "Performance calculations must be redone, and aircraft and runway conditions must be within limits in order for the flight to safely continue."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "After refueling procedure, the pilot notices that the amount of fuel in the tanks is about 2900 kg over the amount considered for performance calculations. Which of the following statements is correct?"
         },
         {
@@ -18030,7 +18030,7 @@
             "2 and 3.",
             "2 and 4."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to SERA, unless subjecting outside observers to harmful dazzle, the following lights shall be displayed at night by all aircraft in flight (in the cruise): 1. Anti-collision lights intended to attract attention to the aircraft 2. Lights in all relevant passenger and accessible cargo compartments 3. Navigation lights intended to indicate the relative path of the aircraft 4. Two landing lights conveniently positioned on the aircraft"
         },
         {
@@ -18042,7 +18042,7 @@
             "Multi-pilot crew only.",
             "Multi-pilot crew only and the other flight crew member has to be a Captain."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which restrictions apply to licence holders aged between 60 and less than 65 in commercial air transport?"
         },
         {
@@ -18054,7 +18054,7 @@
             "YOU LAND (YOU-LAAND)",
             "DESCEND (DEE-SEND)"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Interception. If radio contact is established during interception but communication in a common language is not possible, attempts shall be made to convey instructions and essential information by using standard phrases and pronunciations, transmitting each phrase twice. The standard phrase with the meaning \"Descend for landing\" for use by INTERCEPTING aircraft is:"
         },
         {
@@ -18066,7 +18066,7 @@
             "Continue in IMC and land on the next suitable airport.",
             "Continue in IMC and land on the next airport which is equipped for instrument approaches."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "You are flying on a VFR flight in VMC in a control zone. Suddenly, you realize you are unable to maintain VMC. What are your actions according ICAO Annex 2?"
         },
         {
@@ -18078,7 +18078,7 @@
             "No, under 3000 ft IFR is not allowed.",
             "Yes, if the competent authority uses flight levels from 3000 ft and above."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "You are cruising under IFR in uncontrolled airspace at 2600 ft. Is this allowed?"
         },
         {
@@ -18091,7 +18091,7 @@
             "IF.",
             "FAP."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In an ILS approach, the point on the final approach track, where the intermediate approach altitude intercepts the glide path, is called the..."
         },
         {
@@ -18103,7 +18103,7 @@
             "the OCA/H based on the highest obstacle in the final approach path including an allowance for aircraft speed plus a margin.",
             "the OCA/H based on the highest obstacle in the final approach path only, plus a margin for height loss on any go-around."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In order to determine DA/DH, the factors taken into account are..."
         },
         {
@@ -18116,7 +18116,7 @@
             "Recommended limit: 4 minutes, maximum limit 7 minutes.",
             "Recommended limit: 2 minutes, maximum limit 3 minutes."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What are the response time limits of the first firefighting service vehicles to arrive at any point of each operational runway, in optimum visibility and surface conditions?"
         },
         {
@@ -18129,7 +18129,7 @@
             "Taxi clear of the landing area in use.",
             "Stop."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What action should the pilot operating an aircraft on the ground take upon seeing a steady red light from ATC?"
         },
         {
@@ -18141,7 +18141,7 @@
             "ICAO's unlawful interference committee.",
             "The designated local authority."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Following an act of unlawful interference, the pilot-in-command shall submit, without delay, a report of such an act to..."
         },
         {
@@ -18153,7 +18153,7 @@
             "GEN (General) and ENR (En-route).",
             "GEN, AGA, COM, RAC, FAL, SAR, MET, MAP."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What are the contents of Aeronautical Information Publication (AIP)?"
         },
         {
@@ -18165,7 +18165,7 @@
             "Ceiling 1000 ft and Ground Visibility 10 km.",
             "Ceiling 1500 ft and Ground Visibility 8 km."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Except when a clearance is obtained from an ATC unit, what are the minimum meteorological conditions for VFR flights taking-off or landing at an aerodrome located within a control zone?"
         },
         {
@@ -18177,7 +18177,7 @@
             "domestic air services.",
             "required documents for cargo."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Chicago Convention - Cabotage refers to..."
         },
         {
@@ -18190,7 +18190,7 @@
             "NAVIGATION LOST (NAVIGATION LOST)",
             "AM LOST (AM LOST)"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "If radio contact with the intercepting aircraft is established but communication in a common language is not possible, which phrase should be pronounced by the intercepted aircraft to communicate that the position is unknown?"
         },
         {
@@ -18203,7 +18203,7 @@
             "Is used in the normal way.",
             "Is used for grass strips."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The Pavement Classification System (ACN-PCN), for an aircraft under 5700 kg..."
         },
         {
@@ -18216,7 +18216,7 @@
             "3 minutes.",
             "2 minutes."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the minimum non-radar separation between a light or medium aircraft and a heavy aircraft taking off on parallel runways separated by less than 760 m (2500 ft)?"
         },
         {
@@ -18229,7 +18229,7 @@
             "150 ft.",
             "300 ft."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When an aircraft is operating the SSR in Mode C, the ATC presentation gives information regarding the aircraft's indicated pressure altitude in increments of..."
         },
         {
@@ -18242,7 +18242,7 @@
             "offset entry.",
             "direct entry."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is approaching a standard holding pattern with an inbound course of 341 degrees. When reaching the holding fix, the aircraft is at 3000 ft on a magnetic track of 150 degrees. After reaching the holding fix, the pilot follows a track of 131 degrees for 1 minute and thereafter turns right. The pilot executed a(n)..."
         },
         {
@@ -18255,7 +18255,7 @@
             "Annex 14.",
             "Annex 12."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A detailed representation of the visual ground aids is available in ICAO..."
         },
         {
@@ -18268,7 +18268,7 @@
             "Within 30 metres of the start of the paved surface",
             "Adjacent to the airfield reference point"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Under normal circumstances, where would a runway threshold be located?"
         },
         {
@@ -18281,7 +18281,7 @@
             "can expect to receive the en route clearance.",
             "can expect to commence the descent."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the meaning of Expected Approach Time? It is the time when an aircraft..."
         },
         {
@@ -18294,7 +18294,7 @@
             "This unit is not standard and may be aerodrome specific.",
             "The light has a CP (Candle Power) of 38."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aerodrome reports that the output of its lighting system is 38 candelas. Which of the following is the correct definition of a candela?"
         },
         {
@@ -18307,7 +18307,7 @@
             "accident",
             "offence"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aeroplane has disappeared during flight and is now missing. This would be classified as an..."
         },
         {
@@ -18320,7 +18320,7 @@
             "only when the aircraft is operating within airspace where SSR is used for ATS purposes.",
             "at all times during flight, regardless of whether SSR is used for ATS purposes or not."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When an aircraft carries a serviceable transponder, the pilot shall operate the transponder..."
         },
         {
@@ -18333,7 +18333,7 @@
             "(1) nautical miles; (2) 90%.",
             "(1) nautical miles; (2) 95%."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to ICAO, RNP type is defined as a containment value expressed as a distance in (1) from the intended position within which flights would be for at least (2) of the total flying time."
         },
         {
@@ -18346,7 +18346,7 @@
             "Taxiway boundary.",
             "Fueling area boundary."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is taxiing towards its parking stand following a yellow line. Just before the aircraft reaches its gate, there is a line of a different color that crosses the yellow line and separates the taxiing area from the apron. What does this line indicate?"
         },
         {
@@ -18359,7 +18359,7 @@
             "1000 feet (300 m).",
             "1500 feet (450 m)."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The vertical separation minimum between opposite direction aircraft flying under IFR below flight level 290 is..."
         },
         {
@@ -18372,7 +18372,7 @@
             "clearances.",
             "advisory information."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In respect of the avoidance of collisions, Air Traffic Advisory Services deliver to aircraft..."
         },
         {
@@ -18385,7 +18385,7 @@
             "1 minute 30 seconds.",
             "3 minutes."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Holding procedures - offset entry - Above 14 000 ft in still air, the outbound time on a 30-degree offset track is limited to..."
         },
         {
@@ -18398,7 +18398,7 @@
             "No, Traffic Advisory is only to improve situational awareness and to prepare for a possible Resolution Advisory.",
             "Yes, levelling off is commonly used in these circumstances."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "During a descent, the pilots receive a TA (Traffic Advisory) message regarding the traffic below them. The pilot monitoring advises the pilot flying to level off to avoid traffic. Should the pilot flying follow these instructions?"
         },
         {
@@ -18411,7 +18411,7 @@
             "The pilot should not be asked to use a different callsign.",
             "The callsign is difficult for ATC to pronounce over the radio."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The pilot of an Airbus 350 with the radiotelephony call sign Scandinavia 770 is asked to change radiotelephony call sign. Which of the following is correct?"
         },
         {
@@ -18424,7 +18424,7 @@
             "Yes, the pilot can find them in the Aeronautical Information Circular.",
             "No, the pilot should follow ICAO procedures."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is flying over an unfamiliar aerodrome. The pilot has been informed about the local procedures that apply. Should the pilot comply with them?"
         },
         {
@@ -18436,7 +18436,7 @@
             "shall not impose penalties and fines but may impose customs duties and taxes on the operator.",
             "shall not impose penalties, fines, customs duties and taxes on the operator."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When cargo, unaccompanied baggage or stores were not unloaded at their intended destination but instead were unloaded at a different international airport, the Contracting State where the unloading takes place, if satisfied that there is a valid reason for the change..."
         },
         {
@@ -18448,7 +18448,7 @@
             "(1) primary; (2) total width of the area",
             "(1) primary and secondary; (2) primary area only"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "During an approach where no track guidance is provided during a turn specified by the procedure, the protection area is (1) ___ and the minimum obstacle clearance is provided in the (2) ___."
         },
         {
@@ -18460,7 +18460,7 @@
             "for arrival traffic only, on the ILS localiser frequency.",
             "for arrival and departure traffic, preferably on a discreet VHF frequency."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A voice ATIS is..."
         },
         {
@@ -18472,7 +18472,7 @@
             "SIGMET information.",
             "An en-route Meteo Report."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Name the information issued by a Meteorological Watch Office concerning the occurrence or expected occurrence of specified en-route weather phenomena which may affect the safety of low-level aircraft operations and which was not already included in the forecast issued for low level flights in the Flight Information Region concerned or sub-area."
         },
         {
@@ -18484,7 +18484,7 @@
             "At or above the transition altitude.",
             "If the flight is below the transition altitude."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When should the pilot express the aircraft's vertical position as flight level?"
         },
         {
@@ -18496,7 +18496,7 @@
             "Only 3",
             "1, 2 and 3"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "From the following options, select the correct combination that confirms geographical location when referring to separation as described in ICAO Doc 4444. 1. Visual observation 2. Use of navigation aids 3. Use of area navigation equipment 4. Bearing and distance passed in a clearance by ATC."
         },
         {
@@ -18508,7 +18508,7 @@
             "(1) 10 000 ft; (2) 250 kt TAS.",
             "(1) 15 000 ft; (2) 240 kt IAS."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In airspace Class F below (1) ___ AMSL the maximum speed for flights under VFR is (2) ___."
         },
         {
@@ -18520,7 +18520,7 @@
             "It is designed to place the aircraft on the localizer or the MLS azimuth specified for the final approach track.",
             "It identifies the beginning of the intermediate approach segment of an instrument approach procedure."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is FAP?"
         },
         {
@@ -18533,7 +18533,7 @@
             "A letter Y.",
             "An arrow pointing in that direction."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What ground-air visual signal can survivors use to tell an aircraft they are going in a particular direction?"
         },
         {
@@ -18545,7 +18545,7 @@
             "Alter the heading to the right.",
             "Descend below the aircraft."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is overtaking another aircraft of the same type. Which kind of manoeuvre does the pilot have to perform in Airspace G?"
         },
         {
@@ -18557,7 +18557,7 @@
             "Never.",
             "Yes, if permitted by the commander and specific criteria are met."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Is smoking allowed during corporate business flights?"
         },
         {
@@ -18569,7 +18569,7 @@
             "ATIS, ATC",
             "AIP, ATIS"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Before flight, transition level information can be obtained by consulting..."
         },
         {
@@ -18581,7 +18581,7 @@
             "The approach cannot be continued below MDA or DH unless an element of the threshold (markings or lights) is distinctly visible and identifiable.",
             "To continue below MDA or DH, in addition to approach lights, a visual glideslope indicator should also be distinctly visible and identifiable."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Can the approach and landing be continued below the MDA or DH if, during a VOR/DME approach, the flight crew can distinctly see and identify only the approach lights?"
         },
         {
@@ -18593,7 +18593,7 @@
             "Water-saturated snow which can be blown if loose or, if compacted by hand, will fall apart again upon release; specific gravity up to but not including 0.35.",
             "Snow which, if compacted by hand, will stick together and tend to or form a snowball; specific gravity 0.35 up to but not including 0.5."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What does the term slush stand for?"
         },
         {
@@ -18606,7 +18606,7 @@
             "an LAPL(A) and a PPL(A).",
             "an LAPL(A) only."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "One of the privileges of the holder of a CPL(A) is to exercise all the privileges of the holder of..."
         },
         {
@@ -18619,7 +18619,7 @@
             "100 hours.",
             "75 hours."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to FCL requirements for the issue of the ATPL(A) or (H), of the required hours of total flight time, the minimum night flight time as PIC or as co-pilot shall be..."
         },
         {
@@ -18632,7 +18632,7 @@
             "VFR conditions at night.",
             "both IFR and VFR conditions during both day and night."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A PPL holder completes his/her Night Rating training course according to the Aircrew Regulation (Commission Regulation (EU) No 1178/2011). The Night Rating privileges may be exercised during..."
         },
         {
@@ -18645,7 +18645,7 @@
             "AD",
             "SUP"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When conducting a flight with a destination in another country, which section of the AIP should you consult to discover the transition altitude in the destination country?"
         },
         {
@@ -18658,7 +18658,7 @@
             "Continue down until the standby GP transmitter on the ground takes over.",
             "It is mandatory to perform a missed approach if the GP signal fails."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "You are flying an ILS approach in IMC conditions when the Glide Path (GP) signal is lost. What will you do?"
         },
         {
@@ -18671,7 +18671,7 @@
             "Flashing white/red lights of at least 500 cd intensity.",
             "Only high-intensity type A and type B lights."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to ICAO Annex 14, the presence of objects which must be lighted shall be indicated by"
         },
         {
@@ -18684,7 +18684,7 @@
             "flight level at or below the transition altitude.",
             "altitude at or below the transition altitude."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In the vicinity of an aerodrome of intended landing or used for take-off, the vertical position of aircraft shall be expressed in terms of..."
         },
         {
@@ -18697,7 +18697,7 @@
             "75 m",
             "500 m"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "For aircraft subject to unlawful interference, what should be the minimum distance from an isolated aircraft parking position to other parking positions, buildings or public areas?"
         },
         {
@@ -18710,7 +18710,7 @@
             "Prior to descending below the transition level.",
             "When descending through the transition layer."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When should the latest QNH altimeter setting for the aerodrome be obtained?"
         },
         {
@@ -18722,7 +18722,7 @@
             "Report this event as a mandatory occurrence report.",
             "Do not report this event as it has no impact on the flight."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When the safety demonstration takes place, some passengers are distracted and using their phones, ignoring the demonstration. What should the pilot do?"
         },
         {
@@ -18734,7 +18734,7 @@
             "Be refused by the Pilot-In-Command for safety reasons.",
             "NO longer be used when the visibility decreases to 2500 m."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A runway-in-use for landing operations has been selected for noise abatement purposes. For this runway a full ILS CAT I is available and the runway condition is reported dry. The surface wind is calm, the visibility is 5000 m and the ceiling is 5000 ft. This runway-in-use can..."
         },
         {
@@ -18746,7 +18746,7 @@
             "Unruly passengers on board.",
             "Rostering leading to flight crew duty time exceedances."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following occurrences should be reported in an Air Traffic Incident Report?"
         },
         {
@@ -18758,7 +18758,7 @@
             "Secondary.",
             "Initial."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In which area would you expect full obstacle clearance?"
         },
         {
@@ -18770,7 +18770,7 @@
             "Land immediately.",
             "Descend for landing."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is meant by the command 'YOU LAND' when given by an intercepting aircraft?"
         },
         {
@@ -18783,7 +18783,7 @@
             "Flashing on and off twice the aircraft's landing lights or, if not so equipped, its navigation lights.",
             "Rocking the aircraft's wings."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Search and Rescue - During the hours of daylight, which of the following signals made by aircraft mean that the ground signals have been understood?"
         },
         {
@@ -18796,7 +18796,7 @@
             "Between the end of the runway and the runway strip.",
             "At each end of the runway strip."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The RESA is situated..."
         },
         {
@@ -18809,7 +18809,7 @@
             "Landing Distance Available (LDA).",
             "Take-Off Distance Available (TODA)."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "If a clearway is provided, its length is part of the..."
         },
         {
@@ -18822,7 +18822,7 @@
             "1 is incorrect; 2 is correct.",
             "1 is correct; 2 is correct."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to ICAO Doc 4444: 1. The flight crew shall read back to the air traffic controller safety-related parts of ATC clearances and instructions which are transmitted by voice 2. ATC route clearances, runway-in-use, altimeter settings and surface wind should always be read back"
         },
         {
@@ -18835,7 +18835,7 @@
             "not be transmitted on the voice channel of an ILS.",
             "not be transmitted on the voice channel of a VOR."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "ATIS messages shall..."
         },
         {
@@ -18848,7 +18848,7 @@
             "Airspace Control Number and Airborne Communication Requirement",
             "Aircraft Classification Number and Aircraft Classification Rating"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "ACN and ACR are abbreviations for which of the following?"
         },
         {
@@ -18860,7 +18860,7 @@
             "It is a good decision to reduce weight before an emergency landing.",
             "It is a good decision because it limits the risk of fire."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aeroplane has just departed from Sydney, Australia. Suddenly, one of the engines fails and falls on the ground. The pilots decide to dump fuel. How can this decision be characterized?"
         },
         {
@@ -18872,7 +18872,7 @@
             "Direct entry procedure",
             "Parallel entry procedure"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When approaching the holding pattern, an aircraft makes a left turn on to heading 90 degrees for 1 minute. It then turns left to capture the inbound magnetic track of 270 degrees. What is the appropriate entry procedure?"
         },
         {
@@ -18884,7 +18884,7 @@
             "1, 3 and 4",
             "1, 4 and 5"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A navigation fix is not always exact, but can still be used for navigation. The accuracy of the fix depends on: 1. airborne receiver tolerance 2. ATC tolerance 3. ground equipment tolerance 4. flight technical tolerance 5. weather tolerance"
         },
         {
@@ -18896,7 +18896,7 @@
             "aircraft are required to land, take off and taxi on runways and taxiways only.",
             "a parallel runway system is used at this aerodrome."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Visual ground signals - A horizontal white dumb-bell with a black bar placed perpendicular to the shaft across each circular portion placed in the signal area indicates that..."
         },
         {
@@ -18909,7 +18909,7 @@
             "3rd freedom.",
             "4th freedom."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is flying from State A to State B carrying passengers. The aircraft is registered in State B. What is the freedom of air between State A and B?"
         },
         {
@@ -18921,7 +18921,7 @@
             "during a period of investigation.",
             "until their journey can be continued."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Each Contracting State shall take appropriate measures for the safety of passengers and crew of an aircraft which is subjected to an act of unlawful interference, while on the ground in the territory of the Contracting State..."
         },
         {
@@ -18933,7 +18933,7 @@
             "extension",
             "revalidation"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Your medical class 1 will expire in 10 days. If you are going to an AMC (aeromedical centre) now, you will do a medical class 1..."
         },
         {
@@ -18946,7 +18946,7 @@
             "1 is incorrect, 2 is incorrect.",
             "1 is correct, 2 is correct."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In accordance with ICAO Doc 8168, what is true about the fix tolerance area? 1. The dimensions of the fix tolerance area are based on ground system tolerance. 2. The dimensions of the fix tolerance area are based on airborne receiving system tolerance."
         },
         {
@@ -18959,7 +18959,7 @@
             "To the air traffic services unit and the operator.",
             "To the competent authority."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "To whom should an Air Traffic Incident Report be submitted?"
         },
         {
@@ -18971,7 +18971,7 @@
             "Both aircraft will report their respective vertical positions as an altitude providing, they are operating at or above the lowest usable flight level.",
             "Aircraft A will report its vertical position as an altitude providing it is at or above the lowest usable flight level, and aircraft B will report its position as a flight level providing it is below the lowest usable flight level."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Aircraft A and aircraft B are flying en-route to their destinations. Considering the absence of specified regional air navigation agreements, how will the two aircraft report their vertical positions?"
         },
         {
@@ -18983,7 +18983,7 @@
             "Captain incapacitation due to intoxication from the crew meal.",
             "Window shades are inoperative."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following events are subject to mandatory reporting according to EU regulation No. 376/2014?"
         },
         {
@@ -18995,7 +18995,7 @@
             "10 hours.",
             "25 hours."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "For the issue of an instrument rating the holder of a PPL or CPL shall have completed at least 50 hours of cross-country flight time as pilot-in-command, according to the relevant FCL requirements, the minimum required cross-country flight hours in the relevant aircraft category are..."
         },
         {
@@ -19007,7 +19007,7 @@
             "Germany.",
             "USA."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft of an airline operating in Malta was built in the USA. The aircraft is registered in Germany. Who bears the responsibility for issuing the Certificate of Airworthiness?"
         },
         {
@@ -19019,7 +19019,7 @@
             "(1) stopway; (2) clearway.",
             "(1) clearway; (2) clearway."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Where a runway is provided with a (1) ___, the TODA will include the length of the (2) ___."
         },
         {
@@ -19031,7 +19031,7 @@
             "5 minutes.",
             "2 minutes."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "How earlier can an aircraft depart in any direction before an arriving aircraft making a straight-in approach lands?"
         },
         {
@@ -19044,7 +19044,7 @@
             "0.26 to 0.29, Medium to poor.",
             "0.36 to 0.39, Medium to good."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A braking action code 4 reported on a SNOWTAM corresponds to a measured coefficient of surface friction of ___ and an estimated braking action of ___."
         },
         {
@@ -19056,7 +19056,7 @@
             "20 minutes or more.",
             "10 minutes or more."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An Expected Approach Time (EAT) is transmitted to an aircraft by the most expeditious means when it is expected that it has to hold for..."
         },
         {
@@ -19068,7 +19068,7 @@
             "fly at the corresponding IFR flight level plus or minus 200 ft.",
             "attempt to broadcast warnings on the frequency in use, or on the emergency frequency."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The pilot-in-command of an aircraft subjected to unlawful interference, which must depart from its assigned track or flight level without being able to contact ATS, should whenever possible..."
         },
         {
@@ -19081,7 +19081,7 @@
             "(1) common rules of the air; (2) ICAO Contracting States, search and rescue service providers",
             "(1) common rules of the air; (2) EU Member States, air navigation service providers"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The objective of Standardised European Rules of the Air (SERA) Regulation (EU) No 923/2012 is to establish the (1) ___ and operational provisions regarding services and procedures in air navigation. SERA shall apply to aircraft engaged in general air traffic, the Competent Authorities of (2) ___, aerodrome operators, and ground personnel engaged in aircraft operations."
         },
         {
@@ -19094,7 +19094,7 @@
             "A German airline takes passengers from Berlin to LA, and then takes passengers from LA to San Francisco.",
             "An American airline takes passengers from London to Paris."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following is an example of cabotage?"
         },
         {
@@ -19107,7 +19107,7 @@
             "A cabin crew member is attacked and seriously injured by a passenger during flight.",
             "An engineer is struck and seriously injured after the crew has boarded the aircraft."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following occurrences is classified as an aircraft accident?"
         },
         {
@@ -19120,7 +19120,7 @@
             "Lock button is accessible for both the captain and copilot.",
             "Lock button is only accessible for the captain."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following statements is correct regarding the flight crew compartment door?"
         },
         {
@@ -19133,7 +19133,7 @@
             "Specific approvals, as outlined in the subparts A-M.",
             "Safe Practices, in conjunction with ICAO Annex 19, Safety Management Systems."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What does EASA AIR OPS Annex V refer to?"
         },
         {
@@ -19145,7 +19145,7 @@
             "(1) is an accident because a collision nearly occurred. (2) is a serious incident because the fuselage was damaged.",
             "(1) is an accident. (2) is an accident."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is true about the following events? (1) An aircraft has a near miss with another aircraft that nearly led to a collision (2) Another aircraft sustains damage to landing gear and fuselage"
         },
         {
@@ -19157,7 +19157,7 @@
             "The pilot must follow the lost comm procedure of Italy, since the aircraft is registered in Italy.",
             "The pilot must follow the lost comm procedure of France, since the operator is in France."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft experiences radio communication failure over the ocean but still within US territory. The aircraft is registered in Italy and the operator is in France. Which procedures do you follow?"
         },
         {
@@ -19169,7 +19169,7 @@
             "At least 5 hours of aerobatic instruction and 25 hours of flight time as PIC in aeroplanes or TMGs.",
             "At least 10 hours of aerobatic instruction and 30 hours of flight time as PIC in aeroplanes or TMGs."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What must an applicant for an aerobatic rating have completed?"
         },
         {
@@ -19182,7 +19182,7 @@
             "the clearance of obstacles during take-off.",
             "operation within a defined airspace."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Required Navigation Performance (RNP) is a statement of the navigation performance necessary for..."
         },
         {
@@ -19194,7 +19194,7 @@
             "It shall be no less wide than the runway.",
             "It is at least half the runway width."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The stopway is an area beyond the runway which can used from deceleration in the event of a rejected take-off. What is correct about a stopway?"
         },
         {
@@ -19206,7 +19206,7 @@
             "1006 hPa",
             "1005 hPa"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aerodrome meteorologist measures the QNH as 1006.6 hPa. What QNH value will be reported on the METAR or in the ATIS?"
         },
         {
@@ -19218,7 +19218,7 @@
             "Intermediate Fix (IF) and Final Approach Fix (FAF).",
             "Initial Approach Fix (IAF) and Intermediate Fix (IF)."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In an instrument approach procedure, where does the initial approach segment begin and end?"
         },
         {
@@ -19230,7 +19230,7 @@
             "2300 m",
             "2200 m"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Calculate LDA given the following. TORA: 2100 m Stopway: 200 m Displaced Threshold: 100 m"
         },
         {
@@ -19243,7 +19243,7 @@
             "2 min",
             "4 min"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A heavy aircraft has just landed and a light aircraft is taking-off from the same runway from the opposite side. What is the minimum separation time?"
         },
         {
@@ -19256,7 +19256,7 @@
             "Operator.",
             "Aircraft owner."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The final authority as to the disposition of the aircraft is with the..."
         },
         {
@@ -19268,7 +19268,7 @@
             "emergency vehicles.",
             "aircraft taking off or about to take off."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft taxiing on the manoeuvring area of an aerodrome shall give way to..."
         },
         {
@@ -19280,7 +19280,7 @@
             "from every angle in azimuth.",
             "only from the left side of the aircraft."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The lights used to mark obstacles should be seen..."
         },
         {
@@ -19292,7 +19292,7 @@
             "Altimeter setting.",
             "Transition altitude."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following elements shall be included in an ATIS message that contains both arrival and departure information?"
         },
         {
@@ -19304,7 +19304,7 @@
             "the two aircraft are flying in VMC and the true airspeed of the preceding aircraft is faster than the following aircraft by at least 20 kt.",
             "navigation aids permit frequent determination of the aircraft position and the true airspeed of the preceding aircraft is faster than the following aircraft by at least 20 kt."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The longitudinal separation based on time, between aircraft using the same cruising level, may be reduced, provided..."
         },
         {
@@ -19316,7 +19316,7 @@
             "1000 ft above the highest obstacle within a radius of 600 m from the aircraft.",
             "500 ft above the highest obstacle."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "VFR flights shall not be flown over the congested areas of cities at a height less than..."
         },
         {
@@ -19328,7 +19328,7 @@
             "A location sign and a runway heading sign.",
             "The taxiway designation and a number."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In accordance with ICAO Annex 14, the inscription on a runway-holding position sign at a runway-holding position shall consist of..."
         },
         {
@@ -19340,7 +19340,7 @@
             "(1) longest, (2) width",
             "(1) heaviest, (2) width"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In accordance with ICAO Annex 14, the Rescue and Fire Fighting (RFF) service of an aerodrome should be able to facilitate the (1) ___ aircraft operating at the aerodrome, as well as the aircraft with the maximum fuselage (2) ___ operating at the aerodrome."
         },
         {
@@ -19352,7 +19352,7 @@
             "must overfly the State of Registry of the aircraft to exercise his/her authority.",
             "must disembark the unruly passenger in the State over which the unruly behaviour took place."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When an unruly passenger endangers the safety of the aircraft, the aircraft commander..."
         },
         {
@@ -19364,7 +19364,7 @@
             "incident.",
             "serious accident."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A large commercial jet aircraft has landed and is taxiing towards the apron. During taxi, a passenger unbuckles the seatbelt and stands up from the seat, falls on the floor and breaks two of his/her finger. Apart from that, the passenger feels well. This is classified as a(n)..."
         },
         {
@@ -19376,7 +19376,7 @@
             "The Pilot in Command (PIC).",
             "The ground handler."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Who is responsible to sign the Cargo Declaration prior to departure?"
         },
         {
@@ -19388,7 +19388,7 @@
             "700 ft AGL",
             "1000 ft AGL"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The lower limit of a Control Area is established at a height of not less than..."
         },
         {
@@ -19400,7 +19400,7 @@
             "Within 30 days from the date of notification by the reporter.",
             "As soon as possible after it has been reported."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to Regulation (EU) 376/2014, when an organisation, as certified/approved by the Agency, identifies an actual/potential safety risk through the analysis of reportable occurrences, then it shall share that information with the Agency."
         },
         {
@@ -19412,7 +19412,7 @@
             "Aircraft A: FL250; and Aircraft B: FL270.",
             "Aircraft A: FL260; and Aircraft B: FL240."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Aircraft A and B are flying to Paris. Aircraft A takes off from London Heathrow and is in front of Aircraft B with 1 minute difference. Aircraft B takes off from London City Airport at the same direction, 150 degrees inbound Paris Charles de Gaulle VOR for holding procedure before landing. What will be the appropriate flight level for each aircraft?"
         },
         {
@@ -19425,7 +19425,7 @@
             "the terminal.",
             "the movement area."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The apron is part of..."
         },
         {
@@ -19437,7 +19437,7 @@
             "1000",
             "4000"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A particular METAR states 4000 m of visibility. This can refer to the visibility of a light on an unlit background. The intensity of this light is how many candelas?"
         },
         {
@@ -19449,7 +19449,7 @@
             "be equipped with receivers that can take signals from multiple global navigation satellite systems, i.e. European, USA and Russian systems.",
             "be certified for CAT I operations at least."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is executing an LNAV/VNAV approach on runway 26L of an aerodrome where simultaneous parallel operations are taking place. The aerodrome has four parallel runways, and all runways are in operation. According to ICAO Doc 8168, in order to execute this approach the aircraft must..."
         },
         {
@@ -19462,7 +19462,7 @@
             "A length of at least 600 m and a distance of 100 m between the crossbars.",
             "A length of at least 900 m and a distance of 150 m between the crossbars."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What are the characteristics of the pre-threshold centerline lighting of a typical full CAT I approach lighting system?"
         },
         {
@@ -19475,7 +19475,7 @@
             "Y",
             "N"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the ground-air visual signal code for use by survivors on the ground to indicate \"require medical assistance\"?"
         },
         {
@@ -19488,7 +19488,7 @@
             "Pilot licensing requirements.",
             "Airport security protocols."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "After the regulations of 2017, which aviation sector experienced considerable impact, specifically highlighting advancements or modifications?"
         },
         {
@@ -19501,7 +19501,7 @@
             "36 months until age 40, 24 months thereafter",
             "12 months until age 40, 6 months thereafter"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Pilots who are engaged in single-pilot commercial air transport operations carrying passengers are required to hold a valid Class 1 medical certificate. Which of the following option is correct regarding the validity period of such a medical?"
         },
         {
@@ -19514,7 +19514,7 @@
             "1, 2 and 3.",
             "2 and 4 only."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to ICAO Annex 14 Volume 1 (Aerodrome Design and Operations), which of the following must be frangible? 1. Fixed objects when marked by markers 2. Stopway edge markers 3. Taxiway edge markers 4. Unpaved runway edge markers"
         },
         {
@@ -19527,7 +19527,7 @@
             "118 degrees magnetic.",
             "183 degrees magnetic."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is approaching runway 12 with the intention of circling to runway 30 in class A airspace. What is the appropriate magnetic heading to initiate the circling manoeuvre?"
         },
         {
@@ -19540,7 +19540,7 @@
             "Soft law.",
             "Certification Specification."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An Implementing Rule (IR) developed by EASA and adopted by the European Commission is considered a..."
         },
         {
@@ -19553,7 +19553,7 @@
             "450 m (1476 ft) reducing to 150 m (492 ft).",
             "300 m (984 ft) reducing to 150 m (492 ft)."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What are the minimum obstacle clearance requirements in the primary area of the intermediate approach segment during an instrument approach procedure?"
         },
         {
@@ -19565,7 +19565,7 @@
             "the position of the aircraft and the time in UTC when the interference started.",
             "the type of aircraft being flown."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A flight in controlled airspace is being subjected to unlawful interference, with a hostage situation. According to SERA, the pilot shall attempt to notify ATC of..."
         },
         {
@@ -19577,7 +19577,7 @@
             "The runway is non-controlled, so only aircraft require clearance.",
             "The runway is controlled, and every movement - including vehicles - must have a clearance to enter the runway."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is lining up to a runway of a controlled aerodrome. The pilot notices a vehicle entering the runway from another holding point and backtracking. What is true about the runway?"
         },
         {
@@ -19589,7 +19589,7 @@
             "1018 hPa",
             "1019 hPa"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The local QNH is 1018.6 hPa. The pilots shall receive it as..."
         },
         {
@@ -19601,7 +19601,7 @@
             "Accident report.",
             "Air Traffic incident report."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is conducting an approach to an aerodrome when there is a runway lighting failure, which eventually requires a diversion to be made. What type of report should be made?"
         },
         {
@@ -19613,7 +19613,7 @@
             "While taxiing on the taxiway adjacent to the stand.",
             "Before entering the parking stand."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When should a stand identification sign be clearly visible from the cockpit?"
         },
         {
@@ -19625,7 +19625,7 @@
             "To not damage the runway while landing.",
             "To get below maximum landing mass (MLM)."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Why is fuel dumped during an emergency after take-off?"
         },
         {
@@ -19637,7 +19637,7 @@
             "speed and level for a period of 20 minutes and thereafter adjust level and speed in accordance with the filed flight plan.",
             "level for a period of 5 minutes and thereafter continue in accordance with the filed flight plan."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "If an IFR flight operated in IMC in a controlled airspace, where radar is not used in the provision of air traffic control, encounters a communication failure, it shall maintain the last assigned..."
         },
         {
@@ -19649,7 +19649,7 @@
             "Change its heading to the left.",
             "Fly above."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Two aircraft are flying in G airspace. An aircraft that wants to overtake the other should..."
         },
         {
@@ -19661,7 +19661,7 @@
             "D-CC resume own navigation, direct XX VOR, 270 degrees track 25 miles.",
             "D-CC resume own navigation, direct XX VOR, 270 degrees T."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is being radar vectored. What instructions will the controller give to the pilot when vectoring is terminated?"
         },
         {
@@ -19673,7 +19673,7 @@
             "30 minutes of the original destination ETA.",
             "45 minutes of the original destination ETA."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A pilot lands at an airfield other than the destination specified in the flight plan. When must he/she inform the ATC unit at the original destination? Within..."
         },
         {
@@ -19686,7 +19686,7 @@
             "Crew incapacitation.",
             "System malfunctions."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which one of the following falls into Voluntary reporting?"
         },
         {
@@ -19698,7 +19698,7 @@
             "He/she must always immediately initiate an emergency evacuation.",
             "He/she must remain as far away from other aircraft as possible and taxi to a designated or isolated parking area in accordance with local instructions."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A pilot is taxiing when someone tries to enter the cockpit. What shall the pilot do?"
         },
         {
@@ -19710,7 +19710,7 @@
             "national card",
             "resident card"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following should be used by the general public for identification purposes to facilitate and expedite the process when entering a contracting state?"
         },
         {
@@ -19723,7 +19723,7 @@
             "operate commercial flights with passengers on board between two states.",
             "operate as cabotage traffic."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The second freedom of the air as defined in the International Air Services Transit Agreement is the right for non-scheduled flights to..."
         },
         {
@@ -19736,7 +19736,7 @@
             "ICAO.",
             "The aerodrome security personnel."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The pilots of a delayed flight decide NOT to execute the pre-flight walk around the aircraft to check it. Who is responsible for ensuring that such an event does not occur?"
         },
         {
@@ -19748,7 +19748,7 @@
             "prevent accidents by investigating, Regulation 996/2010 aims to assist Member states, the Agency and organisations in managing aviation safety risk.",
             "assist Member states, the Agency and organisations in managing aviation safety risk, Regulation 996/2010 prevent accidents by investigating."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Regulation 376/2014 on the reporting, analysis and follow-up of occurrences in civil aviation and Regulation 996/2010 on the investigation and prevention of accidents and incidents both deal with incident reports. Regulation 376/2014 intends to..."
         },
         {
@@ -19761,7 +19761,7 @@
             "Squawk 7700.",
             "Squawk 7400."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "During an IFR flight in controlled airspace, if a pilot encounters engine vibration from one engine, which transponder squawk code should the pilot choose?"
         },
         {
@@ -19773,7 +19773,7 @@
             "enter a left-hand traffic pattern",
             "enter a right-hand traffic pattern"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "After the completion of a CDFA non-precision approach the pilot can land or..."
         },
         {
@@ -19786,7 +19786,7 @@
             "Mode A, Code 7500.",
             "Mode C, Code 7700."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What transponder mode and code should be used by an aircraft in a state of emergency?"
         },
         {
@@ -19798,7 +19798,7 @@
             "All exits from the aircraft must be open for an expeditious evacuation in the event of a fire.",
             "Rescue and fire fighting vehicles must be positioned at the aircraft in order to be available in the event of a fire."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to ICAO Annex 14, which of the following is necessary when aircraft refuelling operations take place at the same time as passengers are embarking, on board or disembarking?"
         },
         {
@@ -19810,7 +19810,7 @@
             "(1) mass; (2) length.",
             "(1) width; (2) length."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Rescue and fire fighting - The aerodrome category determining the rescue and fire fighting equipment is based on the overall (1) ___ of the longest aeroplane normally using the aerodrome and its maximum fuselage (2) ___."
         },
         {
@@ -19823,7 +19823,7 @@
             "They shall make sure that there is safe separation between them and traffic taking off and landing.",
             "Control of persons and vehicles at aerodromes is governed by ICAO Annex 11 3.8."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In accordance with ICAO Annex 14 - Aerodromes, what is true about a vehicle towing an aircraft?"
         },
         {
@@ -19835,7 +19835,7 @@
             "Automatic Terminal Information Status",
             "Automatic Terminal Information Service"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What does the abbreviation ATIS stand for?"
         },
         {
@@ -19847,7 +19847,7 @@
             "Anticipate ATC to revert you back when there is no longer any risk of confusion.",
             "You should revert back to your original call sign as soon as you exit controlled airspace."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "ATC instructs you to change your call sign, for safety reasons. When are you going to revert to your original call sign?"
         },
         {
@@ -19860,7 +19860,7 @@
             "Which is carried out by a crew of at least two pilots trained with a specific working method.",
             "Which uses azimuth, elevation and distance information."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is a precision approach? It is a direct instrument approach..."
         },
         {
@@ -19873,7 +19873,7 @@
             "It is designed to provide protection from obstacles.",
             "It is designed to climb above the minimum sector altitude (MSA)."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the purpose of a missed approach procedure?"
         },
         {
@@ -19885,7 +19885,7 @@
             "may deliver such person to the competent authorities",
             "may request such person to disembark"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The aircraft commander, when he has reasonable grounds to believe that a person has committed or is about to commit, on board the aircraft, an offence against penal law..."
         },
         {
@@ -19897,7 +19897,7 @@
             "The lowest altitude above the aerodrome elevation below which an aircraft cannot descend without infringing the appropriate obstacle clearance criteria.",
             "The lowest height above the elevation of the relevant runway threshold, if the threshold elevation is more than 2 m (7 ft) below the aerodrome elevation, below which an aircraft cannot descend without infringing the appropriate obstacle clearance criteria."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is meant by the OCH of a precision approach?"
         },
         {
@@ -19910,7 +19910,7 @@
             "ALERFA, INCERFA, DETRESFA.",
             "ALERFA, DISTRESFA, RESCUEFA."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Select the option which correctly states, in the increasing order of seriousness, the phases related to an aircraft in emergency or believed in emergency."
         },
         {
@@ -19922,7 +19922,7 @@
             "has to be calculated by the Pilot-in command.",
             "is published on the approach and landing chart for each aerodrome."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Altimeter setting procedures - The transition level..."
         },
         {
@@ -19935,7 +19935,7 @@
             "aircraft performance during take-off and landing.",
             "administrative procedures related to civil aviation aircrew."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Commission Implementing Regulation (EU) No 2017/373 lays down common requirements for providers of..."
         },
         {
@@ -19948,7 +19948,7 @@
             "Mode C and code 7600.",
             "Mode A and code 7700."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "While flying you have an emergency - Which of the following SSR transponder modes and codes shall you select?"
         },
         {
@@ -19960,7 +19960,7 @@
             "150 ft in an area where a vertical separation minimum of 1000 ft is applied and 300 ft in an area where a vertical separation minimum of 2000 ft is applied.",
             "500 ft in an area where a vertical separation minimum of 1500 ft is applied and 1000 ft in an area where a vertical separation minimum of 2000 ft is applied."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In an emergency scenario, all the avionics are out and there is no contact established with ATS. In order to indicate that something is wrong, by how much shall the PIC deviate from the cruising levels normally used for IFR flight?"
         },
         {
@@ -19972,7 +19972,7 @@
             "Hard laws can contain documents such as certification specifications and guidance material, while soft laws contain regulations and implementing rules.",
             "Hard laws are legal obligations while soft laws only provide more details about the hard laws."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following gives the correct definition of hard law and soft law?"
         },
         {
@@ -19985,7 +19985,7 @@
             "DH 75 ft, Visibility 200 m.",
             "DH 175 ft, Visibility 300 m."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What are the minima of an ILS CAT II approach?"
         },
         {
@@ -19998,7 +19998,7 @@
             "Safety Reporting.",
             "Incident Reporting."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A malfunctioning lock on the lavatory is to be reported as..."
         },
         {
@@ -20011,7 +20011,7 @@
             "N",
             "Y"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the ground-air visual signal code for use by survivors on the ground to indicate affirmative?"
         },
         {
@@ -20024,7 +20024,7 @@
             "An approved program from the carrier state to maintain airworthiness capability.",
             "There is no need of an airworthiness program."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "France is the State of Registry of an aircraft operated in Luxembourg. Which of the following is required to maintain a Certificate of Airworthiness?"
         },
         {
@@ -20036,7 +20036,7 @@
             "Expanded security checks in the terminal due to a raised alert level.",
             "Irregular operation of the baggage X-ray screening system."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The status of the aerodrome movement area and related facilities shall be provided to the AIS for transmittal to aircraft. Which of the following matters shall in particular be reported to the AIS?"
         },
         {
@@ -20049,7 +20049,7 @@
             "Class III medical assessment.",
             "Class II medical assessment."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to the relevant medical requirements, the applicant for a Commercial Pilot Licence shall hold a current..."
         },
         {
@@ -20061,7 +20061,7 @@
             "(1) 70 hours; (2) 10 hours.",
             "(1) 100 hours; (2) 12 hours."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "For the issue of an IR, an applicant holding a CPL, shall have completed (1) ___ hours of cross-country flight time, of which not less than (2) ___ hours shall be in an adequate aircraft."
         },
         {
@@ -20073,7 +20073,7 @@
             "Aircraft B is to the left of aircraft A.",
             "The position of aircraft B cannot be determined."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Two aircraft are flying in the same area. Aircraft A is aware that it is being overtaken. The pilot of aircraft A checks at two o'clock for aircraft B and notices a red light, and after a while a white light. Where is aircraft B in relation to aircraft A?"
         },
         {
@@ -20085,7 +20085,7 @@
             "Flight information centre and rescue coordination centre.",
             "Alerting centre and rescue coordination centre."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What are the units responsible for promoting efficient organization of search and rescue services?"
         },
         {
@@ -20097,7 +20097,7 @@
             "1.5 NM.",
             "2.0 NM."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The vectoring to intercept an ILS localiser course or an MLS final approach track for an independent approach to parallel runways shall be such as to enable the aircraft to be established in level flight at a distance of at least how many nautical miles prior to intercepting the ILS glide path or MLS elevation angle?"
         },
         {
@@ -20110,7 +20110,7 @@
             "starts at the end of the runway strip and is symmetrical about the runway centre line. Its minimum length is 300 m.",
             "starts at the end of the runway strip and is symmetrical about the runway centre line. Its minimum length is 90 m."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A RESA..."
         },
         {
@@ -20123,7 +20123,7 @@
             "taxiway designation sign only for paved runways.",
             "runway designation sign only for precision approach runways."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A pattern A runway-holding position marking shall be supplemented at a taxiway/runway intersection with a..."
         },
         {
@@ -20135,7 +20135,7 @@
             "Yes, if you feel well enough to fly.",
             "Yes, because the anaesthesia wears off quickly."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A pilot needed to extract a tooth and the dentist used local anaesthesia. Thirty minutes after the application of anaesthesia, the pilot is asked by the company to fly. Is that possible?"
         },
         {
@@ -20147,7 +20147,7 @@
             "15°; 915 m.",
             "30°; 760 m."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Independent departures, on parallel runways, may be conducted provided that the tracks diverge by at least ___ and the runway centre lines are spaced by a minimum of ___."
         },
         {
@@ -20159,7 +20159,7 @@
             "whose callsign is not known to a station.",
             "that has diverted from its route."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An unidentified aircraft is one..."
         },
         {
@@ -20171,7 +20171,7 @@
             "Alicante approach, Globe Air 213 request approach clearance to carry out an RNAV approach to runway 28.",
             "Globe Air 213 request RNAV approach clearance to runway 28."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is approaching Alicante airport and wishes to carry out an RNAV approach to runway 28 via the initial approach fix, VILNA. The correct phraseology for the request is..."
         },
         {
@@ -20184,7 +20184,7 @@
             "Between a rapid exit taxiway and a runway.",
             "Between a runway and a taxiway."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Where might you see an intermediate holding position?"
         },
         {
@@ -20196,7 +20196,7 @@
             "500 ft where a minimum vertical separation of 1000 ft is applied, or 1000 ft where a minimum separation of 2000 ft is applied.",
             "500 ft if its magnetic track is comprised between 000° and 179°, or 1000 ft if its magnetic track is between 180° and 359°."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "In a situation of unlawful interference, an aircraft has had to depart from its assigned routing or cruising level. In accordance with ICAO Annex 2 (and where no special procedures for in-flight contingencies are established), the PIC should proceed whenever possible at a flight level which differs from the cruising levels normally used for IFR flights by..."
         },
         {
@@ -20208,7 +20208,7 @@
             "Expect the appropriate ATC unit to issue an amended clearance to the destination aerodrome, 5 minutes prior to reaching the clearance limit.",
             "Expect the appropriate ATC unit to issue an amended clearance to the destination aerodrome, as soon as practicable."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "During cruise, after ATC handover, a pilot receives a route clearance up to a waypoint at an adjacent controlled airspace. While approaching the clearance limit waypoint, what must the pilot do?"
         },
         {
@@ -20221,7 +20221,7 @@
             "Navigation lights.",
             "Anti-collision lights, navigation lights and beacon lights."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What are the lights used to indicate that the engines are running?"
         },
         {
@@ -20234,7 +20234,7 @@
             "140° Red",
             "140° White"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the coverage and colour of the rear light of an aircraft?"
         },
         {
@@ -20246,7 +20246,7 @@
             "Departure route(s) to be expected, the runway(s) in use, aerodrome altitude.",
             "Type of approach(s) to be expected, the runway(s) in use, present weather."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is in receipt of ATIS broadcast 'OTOPENI INFORMATION OSCAR'. This broadcast can be expected to contain a lot of information about Otopeni aerodrome, including the..."
         },
         {
@@ -20259,7 +20259,7 @@
             "GEN.",
             "AIP Supplement."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the AIP part that contains details about the anti-collision lights?"
         },
         {
@@ -20272,7 +20272,7 @@
             "propeller aircraft with MTOM 5700 kg or more, MOPSC 9 or more.",
             "propeller aircraft with MTOM 5700 kg or less, MOPSC 9 or less."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A performance class B aeroplane is a..."
         },
         {
@@ -20285,7 +20285,7 @@
             "Aircraft in the surrounding area with ACARS are equipped to provide horizontal guidance.",
             "It is forbidden to deviate from the trajectory without informing ATS first."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When a pilot receives a traffic advisory (TA), he should NOT respond since..."
         },
         {
@@ -20298,7 +20298,7 @@
             "Touch down",
             "Descend for landing"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to ICAO Annex 2, which phrase would be used by an intercepting aircraft for the meaning land at this aerodrome?"
         },
         {
@@ -20311,7 +20311,7 @@
             "Daily from 04:00 to 24:00 Local Time.",
             "Daily on a 24-hour service."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the minimum time period for which a State's Aeronautical Information Service must be available for any given flight operating in its area of responsibility?"
         },
         {
@@ -20324,7 +20324,7 @@
             "Hard law non-binding obligations.",
             "Soft law binding obligations."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What are EASA basic regulations made up of?"
         },
         {
@@ -20337,7 +20337,7 @@
             "crossing arms extended above their head.",
             "raised arm and hand with fingers extended horizontally in front of body, then fist clenched."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A marshaller requests a pilot to engage the brakes with the signal..."
         },
         {
@@ -20350,7 +20350,7 @@
             "Take-off",
             "Entering the traffic circuit"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When could the crew of an aircraft receive the transition level?"
         },
         {
@@ -20363,7 +20363,7 @@
             "Class 1 Medical Certificate and Class 2 Medical Certificate.",
             "LAPL medical certificate, ATPL medical certificate, CPL medical certificate, IR medical certificate."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "According to EASA AIRCREW, Medical Certificates are..."
         },
         {
@@ -20376,7 +20376,7 @@
             "ENR",
             "The AIP does not contain this information"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What part of the AIP contains information about runway facilities and landing aids at aerodromes within that state?"
         },
         {
@@ -20389,7 +20389,7 @@
             "At an uncontrolled aerodrome and produce red, white and green.",
             "At an uncontrolled aerodrome and produce red, white and amber."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When should a signalling lamp be provided and what colours should be produced?"
         },
         {
@@ -20402,7 +20402,7 @@
             "The piston engine aeroplane has the right of way if the glider is on the right.",
             "The aeroplane has to climb and the glider has to descend."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A piston engine aeroplane is cruising at FL140 during an IFR flight and comes across a glider operating at the same level. Who has the right of way?"
         },
         {
@@ -20415,7 +20415,7 @@
             "2nd",
             "1st"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "If an aircraft registered in one state (State A) carries passengers to another state (State B), which freedom of the air is being exercised?"
         },
         {
@@ -20428,7 +20428,7 @@
             "the pilot-in-command.",
             "the operator of the aircraft."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When it becomes apparent that an aircraft operating within controlled airspace is in difficulty, the decision to initiate the appropriate alert phases is the responsibility of..."
         },
         {
@@ -20441,7 +20441,7 @@
             "an altitude, when above the transition level.",
             "an altitude at all times."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is operating under IFR outside of controlled airspace. It is in the cruise phase of the flight, and shall be flown at..."
         },
         {
@@ -20453,7 +20453,7 @@
             "Rules of the Air (Tokyo Convention).",
             "Rules of Fly (Chicago Convention)."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the convention that established the Rules of the Air?"
         },
         {
@@ -20465,7 +20465,7 @@
             "The aircraft operator is asked for permission and the pilot-in-command is informed.",
             "The aircraft operator and the pilot-in-command are asked for permission."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "When a passenger is obliged to travel due to judicial proceedings, each Contracting State shall ensure that..."
         },
         {
@@ -20477,7 +20477,7 @@
             "By a pre-flight information circular.",
             "By a pre-flight information bulletin."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A NOTAM is published and will be valid during flight. How is it provided to the crew?"
         },
         {
@@ -20489,7 +20489,7 @@
             "either offset or parallel.",
             "either parallel or direct."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The inbound magnetic track for holding is 052, turns are to the right, and the outbound time is 1 minute. The appropriate entry procedure for a flight on magnetic track 232 with no wind is..."
         },
         {
@@ -20501,7 +20501,7 @@
             "International Airport Training Association.",
             "International Air Trading Association."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What does the abbreviation IATA stand for?"
         },
         {
@@ -20513,7 +20513,7 @@
             "Analysis and follow-up of unlawful interferences and bomb threats.",
             "Management of international airspace and Air Traffic Control Units."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the subject matter of Regulation (EU) No 376/2014?"
         },
         {
@@ -20525,7 +20525,7 @@
             "The aeroplane towing an object, regardless of its position in relation to the sailplane.",
             "The sailplane, regardless of its position in relation to the aeroplane."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A sailplane flying in VMC conditions is approaching a light aeroplane towing an object at approximately the same altitude and on a converging course. Which aircraft has the right of way?"
         },
         {
@@ -20537,7 +20537,7 @@
             "Continuous white marking.",
             "White strips with equal gaps."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A taxiway centerline is a line designed to provide guidance from aprons/hangars to the runway. You have just passed the relevant holding point. What should be the type and colour of the marking of the area between the runway-holding position and runway center line?"
         },
         {
@@ -20549,7 +20549,7 @@
             "is located at the end of the runway end safety area.",
             "includes the runway and, if provided, the stopway."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "ICAO Annex 14. The runway strip..."
         },
         {
@@ -20562,7 +20562,7 @@
             "Legal Committee.",
             "Air Navigation Commission."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "ICAO Organisation - The body of ICAO that considers and recommends modifications to the Annexes of the Convention to the ICAO Council is the..."
         },
         {
@@ -20575,7 +20575,7 @@
             "DME distance, speed.",
             "Time, NM."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What are the different types of horizontal separation?"
         },
         {
@@ -20588,7 +20588,7 @@
             "RNP-APCH certified equipment.",
             "RNAV/RNP certified equipment."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What aircraft equipment is required to perform dependent parallel approaches onto parallel runways?"
         },
         {
@@ -20601,7 +20601,7 @@
             "Your response will be correct and within 1 second.",
             "Your response will be correct and timely."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is in the climb when the pilots receives an ACAS Resolution Advisory to descend. The pilot must follow the RA immediately because the ACAS system anticipates..."
         },
         {
@@ -20614,7 +20614,7 @@
             "ICAO.",
             "ICAO and other organisations, including the Contracting State concerned."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Security - The national civil aviation security programme is established by..."
         },
         {
@@ -20627,7 +20627,7 @@
             "on the movement area and flying in the vicinity of an aerodrome.",
             "on the manoeuvring area."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Aerodrome traffic is all traffic..."
         },
         {
@@ -20640,7 +20640,7 @@
             "Compacted Snow",
             "Slush"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Snow that is well saturated with water, and will drain if you try to squash it into a snowball, makes a distinct slap when walking on it. What contaminant is being described?"
         },
         {
@@ -20653,7 +20653,7 @@
             "Check ATS filed flight plans to verify that different routes were filed.",
             "Check that their tracks are more than 30° divergent using VOR, at a distance of at least 15 NM."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The pilot of an aircraft flying IMC on an airway is uncertain about maintaining the required lateral separation from another aircraft. How can ATC verify if the necessary lateral separation between the aircraft is maintained?"
         },
         {
@@ -20666,7 +20666,7 @@
             "Super Heavy.",
             "Light."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the wake turbulence category of an aircraft that weights 236 tonnes?"
         },
         {
@@ -20678,7 +20678,7 @@
             "(1) until the completion of operations.",
             "(1), and then by mutual consent to (3)."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Three aircraft: (1), (2), and (3) arrive successively at ten minute intervals, overhead the scene of a recent aircraft accident. (1) is unable to establish contact with the Search and Rescue Centre. (2) is able to contact the Search and Rescue Centre. (3) is a Search and Rescue helicopter. The command of the situation is the responsibility of..."
         },
         {
@@ -20691,7 +20691,7 @@
             "The Contracting State",
             "The Pilot in Command"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Who is responsible for ensuring that aircraft security checks are performed?"
         },
         {
@@ -20704,7 +20704,7 @@
             "always Easterly, unless there is a different local rule.",
             "always Westerly, unless there is a different local rule."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft flying under IFR cruising at FL320 can fly tracks that are..."
         },
         {
@@ -20716,7 +20716,7 @@
             "the average of the transition altitudes if the aerodromes were considered separately.",
             "one of the transition altitudes commonly agreed between the aerodrome authorities."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Where two or more closely spaced aerodromes are located so that coordinated procedures are required, a common transition altitude shall be established as..."
         },
         {
@@ -20729,7 +20729,7 @@
             "1 and 4.",
             "3 and 4."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "You are in a controlled airspace under VFR, your minimal IAS is 150 kt. Visibility dropped below 5000 m. Which of the following are your actions? 1. Continue VFR as long as visibility does not drop below 1500 m, additional clearance is not required 2. Proceed IFR, additional clearance is not required 3. Proceed to alternate in VMC 4. Request special VFR if airspeed can be reduced"
         },
         {
@@ -20742,7 +20742,7 @@
             "264 ft",
             "270 ft"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An aircraft is executing an NDB approach to Runway 20. The Obstacle Clearance Height (OCH) is 154 ft. What is the Obstacle Clearance Altitude (OCA) for this non-precision approach in accordance with ICAO Doc 8168? Aerodrome elevation: 135 ft. RWY 20 threshold elevation: 130 ft."
         },
         {
@@ -20755,7 +20755,7 @@
             "Non-precision approach capabilities.",
             "Non-precision approach capabilities, or meet the eligibility of ILS capabilities."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "You are approaching an airport with 4 parallel runways. Parallel departures and approaches are conducted at the airport and all the runways are in use. What is required in order to execute an RNAV approach?"
         },
         {
@@ -20768,7 +20768,7 @@
             "For aircraft alignment and descent for landing.",
             "To join the airways system with the ILS procedure."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the purpose of the Final Approach segment?"
         },
         {
@@ -20781,7 +20781,7 @@
             "AIP, NOTAMs, Circular and AIRAC.",
             "Integrated Aeronautical Information Package."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Each contracting state shall provide an Aeronautical Information Service (AIS) in its territory and for areas in which the state is responsible for the Air Traffic Services outside its territory, and this shall include the preparation and origination of..."
         },
         {
@@ -20794,7 +20794,7 @@
             "(1) not binding, (2) European Commission",
             "(1) not binding, (2) Basic Regulations"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Implementing acts represent (1) hard law measures adopted by the (2) to offer exact technical and operational particulars, guaranteeing the standardized enforcement of regulations across the European Union."
         },
         {
@@ -20807,7 +20807,7 @@
             "read back the code to be set and SQUAWK IDENT.",
             "use the word WILCO."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "To acknowledge transponder mode and code setting instructions, pilots shall..."
         },
         {
@@ -20820,7 +20820,7 @@
             "30 degrees.",
             "12.5 degrees."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Standard Instrument Departure Procedures - Straight Departures - In a straight departure the initial track does not deviate from the alignment of the extended runway centre line by more than..."
         },
         {
@@ -20833,7 +20833,7 @@
             "Special VFR only.",
             "IFR only."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "An IFR-rated pilot is performing a flight between two European aerodromes 100 NM apart. The weather conditions are VMC during the flight. According to SERA (Standardized European Rules of the Air), under which rules can the flight be performed?"
         },
         {
@@ -20845,7 +20845,7 @@
             "(1) IF; (2) FAF",
             "(1) IAF; (2) FAF"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following options correctly identifies the two points described below? 1. The point marking the end of the en-route structure and the beginning of the initial approach segment 2. The point marking the end of the intermediate approach segment and the beginning of the final approach segment"
         },
         {
@@ -20857,7 +20857,7 @@
             "provide Flight Information Service and expediting and maintaining an orderly flow of traffic.",
             "provide advisory service and expediting and maintaining an orderly flow of traffic."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Air Traffic Control Services - The purpose of the issue of clearances by an Air Traffic Control Unit is to..."
         },
         {
@@ -20870,7 +20870,7 @@
             "FL30 or 1500 ft AGL.",
             "FL30 or 100 ft AGL."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Outside controlled airspace, the first IFR level should provide a margin of 500 ft above..."
         },
         {
@@ -20882,7 +20882,7 @@
             "184 ft.",
             "189 ft."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "The OCH of a precision approach to runway 01 is 154 ft. In accordance with ICAO Doc 8168, what is the OCA of the approach? Aerodrome elevation: 35 ft. RWY 01 threshold: 40 ft. RWY 19 threshold elevation: 30 ft."
         },
         {
@@ -20894,7 +20894,7 @@
             "337, MAVEK 47",
             "Bigjet 337, MAVEK 47, FL280"
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "A flight is passing a compulsory reporting point, flying with a serviceable transponder mode C. The pilot monitoring makes the position report, 'Bigjet 337, MAVEK 47, FL280, ATTEK 57'. Which of the following would be an acceptable alternative way of making that position report?"
         },
         {
@@ -20906,7 +20906,7 @@
             "A defined area including the runway and stopway, if provided, intended to reduce the risk of damage to aircraft running off a runway and to protect aircraft flying over it during take-off or landing operations.",
             "A defined rectangular area on the ground at the end of take-off run available prepared as a suitable area in which an aircraft can be stopped in the case of an abandoned take-off."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "What is the definition of RESA (Runway End Safety Area)?"
         },
         {
@@ -20919,7 +20919,7 @@
             "The operator must inform the airport authority by writing an irregularity report.",
             "The crew must follow the procedure relevant to an accident."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "During the climb-out phase of a flight, the pilot-in-command becomes incapacitated. The co-pilot takes control of the aircraft and returns it safely to the aerodrome of departure. What notification or reporting action must be taken after landing?"
         },
         {
@@ -20932,8 +20932,397 @@
             "The repeated switching on and off of the landing lights.",
             "The switching on and off of the landing lights in a sequence to indicate the Morse code letters SOS."
           ],
-          "pplRubricCode" : 10,
+          "atplRubricCode" : 10,
           "textKey" : "Which of the following signal means that an aircraft wishes to give notice of difficulties which compel it to land without requiring immediate assistance?"
+        },
+        {
+          "correctAnswer" : "They are binding in their entirety and used to specify a high and uniform level of safety and uniform conformity and compliance. The IRs are adopted by the european commission in the form of regulations.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "They are binding in their entirety and used to specify a high and uniform level of safety and uniform conformity and compliance. The IRs are adopted by the european commission in the form of regulations.",
+            "They are binding explanatory and interpretation material on how to achieve the requirements contained in the basic regulation, the IRs, the AMCs and the CSs. It contains information, including examples, to assist the user in the interpretation and application of the basic regulation, its IRs, AMCs and the CSs.",
+            "They are non-binding technical standards adopted by the EASA to meet the essential requirements of the basic regulation.",
+            "They are non-binding special detailed technical specifications determined by the NAA for an aerodrome."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Which statement is true about EASA implementing rules?"
+        },
+        {
+          "correctAnswer" : "Propeller engines, 9 persons or less, 5700 kg or less.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Jet engines, 9 persons or more, 5700kg or more.",
+            "Jet engines, 9 persons or less, 5700kg or less.",
+            "Propeller engines, 9 persons or less, 5700 kg or less.",
+            "Propeller Engines, 9 persons or more, 5700kg or less."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Which of the following options describes a Performance Class B aircraft?"
+        },
+        {
+          "correctAnswer" : "150 m different each flight level 300 m apart.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "600 m different each flight level 300 m apart.",
+            "300 m different each flight level 150 m apart.",
+            "300 m different each flight level 300 m apart.",
+            "150 m different each flight level 300 m apart."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "In an emergency scenario, all the avionics are out and there is no contact established with ATS. In order to indicate that something is wrong, the PIC should proceed to a level which differs from normally used cruising levels for IFR flight by..."
+        },
+        {
+          "correctAnswer" : "Facilitate and expedite their inspection as well as their baggage by checking their CMCs.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Facilitate and expedite their luggage inspection, but not the inspection of the crew members, who are subject to the same provisions which apply for the passengers.",
+            "Facilitate and expedite their inspection, but not the inspection of the crew members baggage, which is subject to the same provisions which apply for the passengers baggage.",
+            "Request a full visa in order to check if the person is a real crew member or not.",
+            "Facilitate and expedite their inspection as well as their baggage by checking their CMCs."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "According to ICAO annex 9, when crew members enter or leave a member state, the contracting state shall..."
+        },
+        {
+          "correctAnswer" : "Right.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Right.",
+            "Left.",
+            "At pilot's discretion.",
+            "It depends upon the inbound holding track."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "You are asked to hold on a non-standard holding fix (i.e. en-route). If no specific ATC instruction is received, in what direction are the turns expected to be made?"
+        },
+        {
+          "correctAnswer" : "by use of different routes or geographical locations.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "by use of different routes or geographical locations.",
+            "by use of NM taildown between aircraft.",
+            "by use of lateral angle.",
+            "by use of airspeed."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "How does lateral separation for aircraft at the same flight level need to be provided?"
+        },
+        {
+          "correctAnswer" : "Resume own navigation. Fly direct to \"LESDA\", magnetic track 150, distance to \"LESDA\" 41 nautical miles.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Resume own navigation. Fly direct to \"LESDA\", magnetic track 150, distance to \"LESDA\" 41 nautical miles.",
+            "Radar service terminated. Fly direct to \"LESDA\".",
+            "Proceed with own navigation.",
+            "Resume previous navigation, position 15 NM South of VOR XY."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "An aircraft is being radar vectored. What instructions will the controller give to the pilot when vectoring is terminated and ATC wants the pilot to fly to LESDA?"
+        },
+        {
+          "correctAnswer" : "VFR as separation is not provided between VFR traffics.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "VFR as separation is not provided between VFR traffics.",
+            "Class C is not allowed to VFR traffics.",
+            "IFR as separation is not provided between VFR and IFR traffics.",
+            "Both VFR and IFR."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "An aircraft is executing a VFR departure in a Class C airspace. What type of traffic should the crew be monitoring for?"
+        },
+        {
+          "correctAnswer" : "2.5 NM.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "5 NM.",
+            "1.5 NM.",
+            "3 NM.",
+            "2.5 NM."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Except when prescribed in a procedure or made possible by an agreement, aircraft under radar-control shall not be vectored closer to the boundary of a controlled airspace than.."
+        },
+        {
+          "correctAnswer" : "take the person to any country that can accept him/her.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "take the person back to the aircraft and commence the flight to the next planned destination.",
+            "take the person to his/her country of origin.",
+            "take the person to operator's country of origin.",
+            "take the person to any country that can accept him/her."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "According to ICAO Annex 9 - inadmissible persons, if a state does not accept a person the operator must..."
+        },
+        {
+          "correctAnswer" : "for two parallel runways, by the letter \"L\" and \"R\" in the sequence from left to right.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "for three parallel runways, by adding \"L\" to the designation of the runway farthest to the left, adding one \"R\" to the central runway and adding two \"R\" to the designation of the runway farthest to the right.",
+            "for two parallel runways, by adding \"10\" to the left runway designation and by subtracting \"10\" from the right runway designation.",
+            "for three parallel runways, by the letter \"L\" and \"R\" for the outer runways and no letter supplement for the central runway.",
+            "for two parallel runways, by the letter \"L\" and \"R\" in the sequence from left to right."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "On an aerodrome equipped with parallel runways, the designation number of each runway is supplemented as follows..."
+        },
+        {
+          "correctAnswer" : "Departure from Runway 04 because the PIC has the final decision about which runway to use.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Departure from Runway 04 because the PIC has the final decision about which runway to use.",
+            "Departure from Runway 22 because ATC has the final decision about runway-in-use.",
+            "Departure from Runway 04, but ATC must then file an incident report afterwards.",
+            "Departure from Runway 22, and ATC will advise the pilot to adopt a higher take-off speed."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "A pilot has begun taxiing to Runway 22 for take-off, but the tailwind now exceeds their performance limits. Unsure what to do, the pilot asks ATC to depart from Runway 04 instead. Which of the following is most likely to occur?"
+        },
+        {
+          "correctAnswer" : "When deviating from the route without evidence/without a valid reason.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "When deviating from the route without evidence/without a valid reason.",
+            "When the time to the next point has changed for 3 minutes.",
+            "When changing Flight plan in flight (airborne).",
+            "When deviating TAS for 3%."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "When is an aircraft likely to be intercepted?"
+        },
+        {
+          "correctAnswer" : "The Contracting State having accepted the responsibility for providing those services.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "The ICAO Regional Office closest to the high sea area.",
+            "The Contracting State closest to the high sea area.",
+            "The Contracting State having accepted the responsibility for providing those services.",
+            "By delegation, the US over the Atlantic, Russia over the Arctic, and Australia over the Pacific."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "According to ICAO Annex 2, who is responsible for providing ATS services over the high seas?"
+        },
+        {
+          "correctAnswer" : "An accident and the crew must follow the procedure relevant to this case.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "An irregularity in passenger handling and the handling agent must inform their insurance company.",
+            "A matter of passenger insurance and the airport operator or the company in charge of the handling shall write a report for the insurance company.",
+            "An incident and the pilot-in-command must report it to the airport authority within 48 hours.",
+            "An accident and the crew must follow the procedure relevant to this case."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The aircraft has made a complete stop on the apron. When leaving the aircraft, one of the passengers walks into the trailing edge of the wing and gets seriously injured. What is this and what reporting procedure must be followed?"
+        },
+        {
+          "correctAnswer" : "Class F.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Class F.",
+            "Class E.",
+            "Class D.",
+            "Class G."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What is the class of airspace where IFR and VFR flights are permitted, all participating IFR flights receive an air traffic advisory service and all flights receive flight information service if requested?"
+        },
+        {
+          "correctAnswer" : "Respond by following the RA and inform ATC because ATC doesn't have communication with ACAS.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Pull back to achieve a normal radius.",
+            "Monitor the Navigation Display.",
+            "Respond by following the RA and inform ATC because ATC doesn't have communication with ACAS.",
+            "Keep maximum deflection of the control column and pull back for an even tighter radius."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What must a pilot do if an RA is triggered in the cockpit?"
+        },
+        {
+          "correctAnswer" : "Taxiways are designed so that the cockpit remains over the taxiway centre line.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Taxiways are designed so that the cockpit undershoots the taxiway centre line.",
+            "Taxiways are designed so that the cockpit remains always left of the taxiway centre line.",
+            "Taxiways are designed so that the cockpit overshoots the taxiway centre line.",
+            "Taxiways are designed so that the cockpit remains over the taxiway centre line."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Which of the following statements is true about the taxiway design?"
+        },
+        {
+          "correctAnswer" : "Wherever safety, air traffic considerations or runway configurations dictate it.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Only for the interest of safety.",
+            "Whenever the Pilot-in-Command informs Air Traffic Control that they intend to do so.",
+            "Only when an Air Traffic Controller requires it or authorizes it.",
+            "Wherever safety, air traffic considerations or runway configurations dictate it."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What conditions does SERA allow aeroplanes to take-off and land in a direction other than into wind?"
+        },
+        {
+          "correctAnswer" : "All types of commercial and non-commercial operations.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "All types of commercial and non-commercial operations.",
+            "Only commercial operations.",
+            "Only non-commercial operations.",
+            "Any specialized operation where the airport is used for specialized activities only."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "REGULATION (EU) No 965/2012 covers..."
+        },
+        {
+          "correctAnswer" : "The aeroplane, regardless of the altitude of the glider.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "The aeroplane, if it is able to carry out a missed approach procedure.",
+            "The aeroplane, regardless of the altitude of the glider.",
+            "The glider, if their trajectories are converging and the aeroplane is on its left side.",
+            "The glider, if the aeroplane is flying at a lower altitude."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "An aeroplane and a glider are approaching to land at an aerodrome. Which one of them shall give way to the other..."
+        },
+        {
+          "correctAnswer" : "4, 5, 6, 7",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "1, 3, 4, 5, 6, 7",
+            "4, 5, 6",
+            "4, 5, 6, 7"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "A NOTAM shall be originated and issued concerning the following information: 1. runway marking work, when the equipment used can be removed when necessary 2. runway marking work, when aircraft operations can safely be conducted on other available runways 3. routine maintenance work on aprons and taxiways which does not affect the safe movement of aircraft 4. occurrence or correction of major defects or impediments in the manoeuvring area 5. interruption of or return to operation of major components of aerodrome lighting systems 6. presence of hazards which affect air navigation 7. observations or forecasts of space weather phenomena"
+        },
+        {
+          "correctAnswer" : "ATC expects that an aircraft, following a delay, will leave the holding fix to complete its approach for landing.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "the Pilot-in-Command estimates he/she will arrive overhead the aerodrome to commence the approach.",
+            "the Pilot-in-Command estimates he/she will arrive at the Initial Approach Fix, if the flight is without a delay.",
+            "ATC expects an aircraft to arrive over the Initial Approach Fix, if the flight is without a delay, to commence the instrument approach.",
+            "ATC expects that an aircraft, following a delay, will leave the holding fix to complete its approach for landing."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The \"Expected Approach Time\" is the time that..."
+        },
+        {
+          "correctAnswer" : "apprehension exists as to the safety of an aircraft and its occupants.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "information is received that the fuel on board is exhausted and that the aircraft is about to make a forced landing.",
+            "there is a state of emergency in which an aircraft and its occupants are considered to be threatened by a danger.",
+            "an aircraft and its occupants are considered to be in a state of emergency.",
+            "apprehension exists as to the safety of an aircraft and its occupants."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "The Alert phase is defined as when..."
+        },
+        {
+          "correctAnswer" : "300 m (1000 ft)",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "300 m (1000 ft)",
+            "1200 m (4000 ft)",
+            "600 m (2000 ft)",
+            "900 m (3000 ft)"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What is the vertical separation minimum between FL290 and FL410 in RVSM airspace?"
+        },
+        {
+          "correctAnswer" : "1 is correct; 2 is incorrect",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Both are correct.",
+            "1 is correct; 2 is incorrect",
+            "1 is incorrect; 2 is correct",
+            "It is not possible to change flight rules during a flight."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "How would a pilot cancel an IFR flight and continue under VFR? 1. By stating \"cancelling my IFR flight\". 2. ATC may request to cancel IFR if aware of uninterrupted VMC."
+        },
+        {
+          "correctAnswer" : "Pre-flight Information Bulletin (PIB).",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "Pre-flight Information Summary (PIS).",
+            "Pre-flight Information Circular (PIC).",
+            "Pre-flight Information Bulletin (PIB).",
+            "Pre-flight Information Leaflet (PIL)."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Information of operational significance or of an urgent nature has been provided in a NOTAM. The NOTAM is still valid. Prior to a flight, this information shall be made available once more to the flight crew in the form of a plain-language..."
+        },
+        {
+          "correctAnswer" : "1 only",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "1 only",
+            "1 and 4",
+            "2 and 3",
+            "1, 2, 3 and 4"
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "Following an increase in the length of the stopway section of a runway, which of the following have also extended in length? 1. ASDA 2. TODA 3. TORA 4. LDA"
+        },
+        {
+          "correctAnswer" : "0 ft.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "0.8% gradient.",
+            "3.5% gradient.",
+            "50 ft.",
+            "0 ft."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "What is the minimum obstacle clearance at the departure end of runway on an instrument departure?"
+        },
+        {
+          "correctAnswer" : "shall not be precluded from recovering from such person any transportation costs arising from the removal.",
+          "imageHeight" : 0,
+          "imageName" : "logo",
+          "options" : [
+            "is not responsible for the inadmissibility of such person for entry in the receiving state and shall not be made responsible for the repatriation of such person.",
+            "shall not recover from such person any transportation costs arising from the removal.",
+            "shall not be precluded from recovering from such person any transportation costs arising from the removal.",
+            "and the state of the operator are both responsible for the inadmissible person."
+          ],
+          "atplRubricCode" : 10,
+          "textKey" : "When a person is found to be inadmissible and is returned to the aircraft operator for transport away from the territory of the state, the aircraft operator.."
         }
       ],
       "title" : "category.atplBank"
