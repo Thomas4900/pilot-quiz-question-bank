@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "title": "category.airliners",
+      "questions": [
+        {
+          "textKey": "quiz.guess.plane",
+          "imageName": "Antonov AN-225",
+          "options": [
+            "Antonov AN-225",
+            "Tristar L-1011",
+            "McDonnell Douglas MD-11"
+          ],
+          "correctAnswer": "Antonov AN-225",
+          "imageWidth": 300,
+          "imageHeight": 200
+        }
+      ]
+    },
+    {
+      "title": "category.pplBank",
+      "questions": [
+        {
+          "textKey": "Air Traffic Control Services - The purpose of the issue of clearances by an Air Traffic Control Unit is to...",
+          "imageName": "logo",
+          "options": [
+            "prevent collision between aircraft under its control and expediting and maintaining an orderly flow of traffic.",
+            "provide Flight Information Service and expediting and maintaining an orderly flow of traffic.",
+            "provide advisory service and expediting and maintaining an orderly flow of traffic."
+          ],
+          "correctAnswer": "prevent collision between aircraft under its control and expediting and maintaining an orderly flow of traffic.",
+          "imageHeight": 0,
+          "pplRubricCode": 10
+        }
+      ]
+    }
+  ]
+}
